@@ -1,0 +1,1145 @@
+ID,Job,Route,Direction,Stop,Date,Scheduled,Actual,Different,Status
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 06:00:00,1970-01-01 06:01:16,-00:01:16,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Governor Oden Bowie Dr at Elm St,2021-02-15 00:00:00,1970-01-01 06:02:00,1970-01-01 06:03:45,-00:01:45,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 06:03:00,1970-01-01 06:04:03,-00:01:03,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Courthouse,2021-02-15 00:00:00,1970-01-01 06:04:00,1970-01-01 06:07:31,-00:03:31,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Water St & Main St,2021-02-15 00:00:00,1970-01-01 06:05:00,1970-01-01 06:08:46,-00:03:46,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,John Rogers Blvd at Colonel's Choice,2021-02-15 00:00:00,1970-01-01 06:09:00,1970-01-01 06:11:31,-00:02:31,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Dille Dr at Correctional Center,2021-02-15 00:00:00,1970-01-01 06:13:00,1970-01-01 06:13:55,-00:00:55,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Brown Station Rd at Dille Dr,2021-02-15 00:00:00,1970-01-01 06:30:00,1970-01-01 06:31:37,-00:01:37,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at Lord Fairfax Pl,2021-02-15 00:00:00,1970-01-01 06:33:00,1970-01-01 06:33:40,-00:00:40,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 06:34:00,1970-01-01 06:34:25,-00:00:25,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Old Marlboro Pike at Old Mill Rd,2021-02-15 00:00:00,1970-01-01 06:37:00,1970-01-01 06:37:46,-00:00:46,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 06:39:00,1970-01-01 06:39:37,-00:00:37,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Judge's Dr at Pratt St,2021-02-15 00:00:00,1970-01-01 06:41:00,1970-01-01 06:41:25,-00:00:25,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Courthouse,2021-02-15 00:00:00,1970-01-01 06:42:00,1970-01-01 06:43:33,-00:01:33,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 06:44:00,1970-01-01 06:44:48,-00:00:48,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 07:00:00,1970-01-01 07:00:13,-00:00:13,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Governor Oden Bowie Dr at Elm St,2021-02-15 00:00:00,1970-01-01 07:02:00,1970-01-01 07:02:57,-00:00:57,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 07:03:00,1970-01-01 07:03:18,-00:00:18,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Courthouse,2021-02-15 00:00:00,1970-01-01 07:04:00,1970-01-01 07:06:03,-00:02:03,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Water St & Main St,2021-02-15 00:00:00,1970-01-01 07:05:00,1970-01-01 07:06:48,-00:01:48,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,John Rogers Blvd at Colonel's Choice,2021-02-15 00:00:00,1970-01-01 07:09:00,1970-01-01 07:09:47,-00:00:47,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Dille Dr at Correctional Center,2021-02-15 00:00:00,1970-01-01 07:13:00,1970-01-01 07:12:16,1970-01-01 00:00:44,early
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Brown Station Rd at Dille Dr,2021-02-15 00:00:00,1970-01-01 07:30:00,1970-01-01 07:31:35,-00:01:35,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at Lord Fairfax Pl,2021-02-15 00:00:00,1970-01-01 07:33:00,1970-01-01 07:34:15,-00:01:15,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 07:34:00,1970-01-01 07:34:51,-00:00:51,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Old Marlboro Pike at Old Mill Rd,2021-02-15 00:00:00,1970-01-01 07:37:00,1970-01-01 07:37:18,-00:00:18,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 07:39:00,1970-01-01 07:39:10,-00:00:10,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Judge's Dr at Pratt St,2021-02-15 00:00:00,1970-01-01 07:41:00,1970-01-01 07:40:37,1970-01-01 00:00:22,early
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Courthouse,2021-02-15 00:00:00,1970-01-01 07:42:00,1970-01-01 07:42:03,-00:00:03,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 07:44:00,1970-01-01 07:43:28,1970-01-01 00:00:32,early
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 08:00:00,1970-01-01 08:01:15,-00:01:15,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Governor Oden Bowie Dr at Elm St,2021-02-15 00:00:00,1970-01-01 08:02:00,1970-01-01 08:03:26,-00:01:26,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 08:03:00,1970-01-01 08:05:29,-00:02:29,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Courthouse,2021-02-15 00:00:00,1970-01-01 08:04:00,1970-01-01 08:08:49,-00:04:49,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Water St & Main St,2021-02-15 00:00:00,1970-01-01 08:05:00,1970-01-01 08:15:13,-00:10:13,late
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,John Rogers Blvd at Colonel's Choice,2021-02-15 00:00:00,1970-01-01 08:09:00,1970-01-01 08:17:32,-00:08:32,late
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Dille Dr at Correctional Center,2021-02-15 00:00:00,1970-01-01 08:13:00,1970-01-01 08:19:36,-00:06:36,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Brown Station Rd at Dille Dr,2021-02-15 00:00:00,1970-01-01 08:30:00,1970-01-01 08:36:52,-00:06:52,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at Lord Fairfax Pl,2021-02-15 00:00:00,1970-01-01 08:33:00,1970-01-01 08:38:43,-00:05:43,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 08:34:00,1970-01-01 08:39:20,-00:05:20,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Old Marlboro Pike at Old Mill Rd,2021-02-15 00:00:00,1970-01-01 08:37:00,1970-01-01 08:41:45,-00:04:45,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 08:39:00,1970-01-01 08:43:21,-00:04:21,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Judge's Dr at Pratt St,2021-02-15 00:00:00,1970-01-01 08:41:00,1970-01-01 08:44:44,-00:03:44,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Courthouse,2021-02-15 00:00:00,1970-01-01 08:42:00,1970-01-01 08:47:18,-00:05:18,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 08:44:00,1970-01-01 08:48:42,-00:04:42,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 09:00:00,1970-01-01 09:01:58,-00:01:58,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Governor Oden Bowie Dr at Elm St,2021-02-15 00:00:00,1970-01-01 09:02:00,1970-01-01 09:04:41,-00:02:41,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 09:03:00,1970-01-01 09:05:01,-00:02:01,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Courthouse,2021-02-15 00:00:00,1970-01-01 09:04:00,1970-01-01 09:10:49,-00:06:49,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Water St & Main St,2021-02-15 00:00:00,1970-01-01 09:05:00,1970-01-01 09:11:40,-00:06:40,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,John Rogers Blvd at Colonel's Choice,2021-02-15 00:00:00,1970-01-01 09:09:00,1970-01-01 09:14:55,-00:05:55,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Dille Dr at Correctional Center,2021-02-15 00:00:00,1970-01-01 09:13:00,1970-01-01 09:17:18,-00:04:18,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Brown Station Rd at Dille Dr,2021-02-15 00:00:00,1970-01-01 09:30:00,1970-01-01 09:31:47,-00:01:47,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at Lord Fairfax Pl,2021-02-15 00:00:00,1970-01-01 09:33:00,1970-01-01 09:33:46,-00:00:46,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 09:34:00,1970-01-01 09:34:25,-00:00:25,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Old Marlboro Pike at Old Mill Rd,2021-02-15 00:00:00,1970-01-01 09:37:00,1970-01-01 09:37:17,-00:00:17,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,John Rogers Blvd at Colonel's Choice,2021-02-15 00:00:00,1970-01-01 09:09:00,1970-01-01 09:39:14,-00:30:14,late
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Dille Dr at Correctional Center,2021-02-15 00:00:00,1970-01-01 09:13:00,1970-01-01 09:39:14,-00:26:14,late
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Brown Station Rd at Dille Dr,2021-02-15 00:00:00,1970-01-01 09:30:00,1970-01-01 09:39:14,-00:09:14,late
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at Lord Fairfax Pl,2021-02-15 00:00:00,1970-01-01 09:33:00,1970-01-01 09:39:14,-00:06:14,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 09:34:00,1970-01-01 09:39:14,-00:05:14,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Old Marlboro Pike at Old Mill Rd,2021-02-15 00:00:00,1970-01-01 09:37:00,1970-01-01 09:39:14,-00:02:14,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 09:39:00,1970-01-01 09:39:36,-00:00:36,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Judge's Dr at Pratt St,2021-02-15 00:00:00,1970-01-01 09:41:00,1970-01-01 09:40:53,1970-01-01 00:00:06,early
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Courthouse,2021-02-15 00:00:00,1970-01-01 09:42:00,1970-01-01 09:42:35,-00:00:35,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 09:44:00,1970-01-01 09:44:38,-00:00:38,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 10:00:00,1970-01-01 10:01:16,-00:01:16,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Governor Oden Bowie Dr at Elm St,2021-02-15 00:00:00,1970-01-01 10:02:00,1970-01-01 10:03:40,-00:01:40,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 10:03:00,1970-01-01 10:03:54,-00:00:54,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Courthouse,2021-02-15 00:00:00,1970-01-01 10:04:00,1970-01-01 10:07:20,-00:03:20,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Water St & Main St,2021-02-15 00:00:00,1970-01-01 10:05:00,1970-01-01 10:08:22,-00:03:22,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,John Rogers Blvd at Colonel's Choice,2021-02-15 00:00:00,1970-01-01 10:09:00,1970-01-01 10:11:19,-00:02:19,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Dille Dr at Correctional Center,2021-02-15 00:00:00,1970-01-01 10:13:00,1970-01-01 10:13:44,-00:00:44,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Brown Station Rd at Dille Dr,2021-02-15 00:00:00,1970-01-01 10:30:00,1970-01-01 10:32:16,-00:02:16,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at Lord Fairfax Pl,2021-02-15 00:00:00,1970-01-01 10:33:00,1970-01-01 10:34:13,-00:01:13,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 10:34:00,1970-01-01 10:34:52,-00:00:52,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Old Marlboro Pike at Old Mill Rd,2021-02-15 00:00:00,1970-01-01 10:37:00,1970-01-01 10:37:39,-00:00:39,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 10:39:00,1970-01-01 10:39:38,-00:00:38,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Judge's Dr at Pratt St,2021-02-15 00:00:00,1970-01-01 10:41:00,1970-01-01 10:41:14,-00:00:14,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Courthouse,2021-02-15 00:00:00,1970-01-01 10:42:00,1970-01-01 10:42:54,-00:00:54,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 10:44:00,1970-01-01 10:44:36,-00:00:36,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 11:00:00,1970-01-01 11:00:44,-00:00:44,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Governor Oden Bowie Dr at Elm St,2021-02-15 00:00:00,1970-01-01 11:02:00,1970-01-01 11:03:39,-00:01:39,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 11:03:00,1970-01-01 11:03:57,-00:00:57,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Courthouse,2021-02-15 00:00:00,1970-01-01 11:04:00,1970-01-01 11:07:29,-00:03:29,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Water St & Main St,2021-02-15 00:00:00,1970-01-01 11:05:00,1970-01-01 11:08:41,-00:03:41,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,John Rogers Blvd at Colonel's Choice,2021-02-15 00:00:00,1970-01-01 11:09:00,1970-01-01 11:11:33,-00:02:33,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Dille Dr at Correctional Center,2021-02-15 00:00:00,1970-01-01 11:13:00,1970-01-01 11:14:14,-00:01:14,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Brown Station Rd at Dille Dr,2021-02-15 00:00:00,1970-01-01 11:30:00,1970-01-01 11:32:45,-00:02:45,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at Lord Fairfax Pl,2021-02-15 00:00:00,1970-01-01 11:33:00,1970-01-01 11:34:44,-00:01:44,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 11:34:00,1970-01-01 11:35:33,-00:01:33,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Old Marlboro Pike at Old Mill Rd,2021-02-15 00:00:00,1970-01-01 11:37:00,1970-01-01 11:38:21,-00:01:21,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 11:39:00,1970-01-01 11:40:16,-00:01:16,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Judge's Dr at Pratt St,2021-02-15 00:00:00,1970-01-01 11:41:00,1970-01-01 11:41:51,-00:00:51,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Courthouse,2021-02-15 00:00:00,1970-01-01 11:42:00,1970-01-01 11:43:32,-00:01:32,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 11:44:00,1970-01-01 11:45:22,-00:01:22,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 12:00:00,1970-01-01 12:00:54,-00:00:54,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Governor Oden Bowie Dr at Elm St,2021-02-15 00:00:00,1970-01-01 12:02:00,1970-01-01 12:03:52,-00:01:52,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 12:03:00,1970-01-01 12:04:12,-00:01:12,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Courthouse,2021-02-15 00:00:00,1970-01-01 12:04:00,1970-01-01 12:08:28,-00:04:28,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Water St & Main St,2021-02-15 00:00:00,1970-01-01 12:05:00,1970-01-01 12:09:34,-00:04:34,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,John Rogers Blvd at Colonel's Choice,2021-02-15 00:00:00,1970-01-01 12:09:00,1970-01-01 12:12:47,-00:03:47,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Dille Dr at Correctional Center,2021-02-15 00:00:00,1970-01-01 12:13:00,1970-01-01 12:15:31,-00:02:31,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Brown Station Rd at Dille Dr,2021-02-15 00:00:00,1970-01-01 12:30:00,1970-01-01 12:33:57,-00:03:57,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at Lord Fairfax Pl,2021-02-15 00:00:00,1970-01-01 12:33:00,1970-01-01 12:35:48,-00:02:48,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 12:34:00,1970-01-01 12:36:30,-00:02:30,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Old Marlboro Pike at Old Mill Rd,2021-02-15 00:00:00,1970-01-01 12:37:00,1970-01-01 12:39:24,-00:02:24,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,John Rogers Blvd at Colonel's Choice,2021-02-15 00:00:00,1970-01-01 12:09:00,1970-01-01 12:41:12,-00:32:12,late
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Dille Dr at Correctional Center,2021-02-15 00:00:00,1970-01-01 12:13:00,1970-01-01 12:41:12,-00:28:12,late
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Brown Station Rd at Dille Dr,2021-02-15 00:00:00,1970-01-01 12:30:00,1970-01-01 12:41:12,-00:11:12,late
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at Lord Fairfax Pl,2021-02-15 00:00:00,1970-01-01 12:33:00,1970-01-01 12:41:12,-00:08:12,late
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Lords Landing Rd at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 12:34:00,1970-01-01 12:41:12,-00:07:12,late
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Old Marlboro Pike at Old Mill Rd,2021-02-15 00:00:00,1970-01-01 12:37:00,1970-01-01 12:41:12,-00:04:12,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 12:39:00,1970-01-01 12:42:10,-00:03:10,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Judge's Dr at Pratt St,2021-02-15 00:00:00,1970-01-01 12:41:00,1970-01-01 12:43:32,-00:02:32,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Courthouse,2021-02-15 00:00:00,1970-01-01 12:42:00,1970-01-01 12:45:00,-00:03:00,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To Equestrian Center,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 12:44:00,1970-01-01 12:46:40,-00:02:40,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Equestrian Center Lot 3,2021-02-15 00:00:00,1970-01-01 13:00:00,1970-01-01 13:00:29,-00:00:29,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Governor Oden Bowie Dr at Elm St,2021-02-15 00:00:00,1970-01-01 13:02:00,1970-01-01 13:03:16,-00:01:16,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Gov. Oden Bowie Dr at Rear C.A.B.,2021-02-15 00:00:00,1970-01-01 13:03:00,1970-01-01 13:03:34,-00:00:34,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Courthouse,2021-02-15 00:00:00,1970-01-01 13:04:00,1970-01-01 13:06:34,-00:02:34,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,Water St & Main St,2021-02-15 00:00:00,1970-01-01 13:05:00,1970-01-01 13:08:07,-00:03:07,ontime
+Vehicle: 62616,5104,Route 51 Loop B,To DWI Facility,John Rogers Blvd at Colonel's Choice,2021-02-15 00:00:00,1970-01-01 13:09:00,1970-01-01 13:10:45,-00:01:45,ontime
+Vehicle: 62616,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62616,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62618n,Vehicle: 62618n,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Branchwood Towers,2021-02-15 00:00:00,1970-01-01 06:02:00,1970-01-01 06:05:46,-00:03:46,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Old Branch Ave at Coventry Way,2021-02-15 00:00:00,1970-01-01 06:16:00,1970-01-01 06:18:06,-00:02:06,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 06:22:00,1970-01-01 06:22:01,-00:00:01,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Brinkley Rd at Temple Hill Rd,2021-02-15 00:00:00,1970-01-01 06:28:00,1970-01-01 06:29:00,-00:01:00,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Manor at Victoria Park,2021-02-15 00:00:00,1970-01-01 06:37:00,1970-01-01 06:37:59,-00:00:59,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Temple Hill Rd at St Barnabas Rd,2021-02-15 00:00:00,1970-01-01 06:39:00,1970-01-01 06:39:17,-00:00:17,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Iverson Mall,2021-02-15 00:00:00,1970-01-01 06:44:00,1970-01-01 06:47:59,-00:03:59,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Naylor Rd Station Bay H,2021-02-15 00:00:00,1970-01-01 06:52:00,1970-01-01 06:55:42,-00:03:42,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Naylor Rd Station Bay H,2021-02-15 00:00:00,1970-01-01 07:00:00,1970-01-01 07:04:39,-00:04:39,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Iverson Mall,2021-02-15 00:00:00,1970-01-01 07:07:00,1970-01-01 07:11:42,-00:04:42,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Temple Hill Rd at St Barnabas Rd,2021-02-15 00:00:00,1970-01-01 07:13:00,1970-01-01 07:17:46,-00:04:46,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Manor at Victoria Park,2021-02-15 00:00:00,1970-01-01 07:14:00,1970-01-01 07:18:49,-00:04:49,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Brinkley Rd at Temple Hill Rd,2021-02-15 00:00:00,1970-01-01 07:24:00,1970-01-01 07:24:29,-00:00:29,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 07:30:00,1970-01-01 07:30:06,-00:00:06,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Old Branch Ave at Coventry Way,2021-02-15 00:00:00,1970-01-01 07:35:00,1970-01-01 07:33:59,1970-01-01 00:01:01,early
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Branchwood Towers,2021-02-15 00:00:00,1970-01-01 07:48:00,1970-01-01 07:48:49,-00:00:49,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Clinton Fringe Lot,2021-02-15 00:00:00,1970-01-01 07:52:00,1970-01-01 08:01:36,-00:09:36,late
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Clinton Fringe Lot,2021-02-15 00:00:00,1970-01-01 08:00:00,1970-01-01 08:02:20,-00:02:20,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Branchwood Towers,2021-02-15 00:00:00,1970-01-01 08:02:00,1970-01-01 08:07:00,-00:05:00,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Old Branch Ave at Coventry Way,2021-02-15 00:00:00,1970-01-01 08:16:00,1970-01-01 08:19:21,-00:03:21,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 08:22:00,1970-01-01 08:22:42,-00:00:42,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Brinkley Rd at Temple Hill Rd,2021-02-15 00:00:00,1970-01-01 08:28:00,1970-01-01 08:27:55,1970-01-01 00:00:05,early
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Manor at Victoria Park,2021-02-15 00:00:00,1970-01-01 08:37:00,1970-01-01 08:37:39,-00:00:39,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Temple Hill Rd at St Barnabas Rd,2021-02-15 00:00:00,1970-01-01 08:39:00,1970-01-01 08:38:33,1970-01-01 00:00:27,early
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Iverson Mall,2021-02-15 00:00:00,1970-01-01 08:44:00,1970-01-01 08:46:46,-00:02:46,ontime
+Vehicle: 62618n,3201,Route 32,To Naylor Road Station,Naylor Rd Station Bay H,2021-02-15 00:00:00,1970-01-01 08:52:00,1970-01-01 08:55:42,-00:03:42,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Naylor Rd Station Bay H,2021-02-15 00:00:00,1970-01-01 09:00:00,1970-01-01 09:05:42,-00:05:42,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Iverson Mall,2021-02-15 00:00:00,1970-01-01 09:07:00,1970-01-01 09:12:50,-00:05:50,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Temple Hill Rd at St Barnabas Rd,2021-02-15 00:00:00,1970-01-01 09:13:00,1970-01-01 09:18:57,-00:05:57,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Manor at Victoria Park,2021-02-15 00:00:00,1970-01-01 09:14:00,1970-01-01 09:20:24,-00:06:24,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Brinkley Rd at Temple Hill Rd,2021-02-15 00:00:00,1970-01-01 09:24:00,1970-01-01 09:25:43,-00:01:43,ontime
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 09:30:00,1970-01-01 09:29:47,1970-01-01 00:00:13,early
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Old Branch Ave at Coventry Way,2021-02-15 00:00:00,1970-01-01 09:35:00,1970-01-01 09:33:26,1970-01-01 00:01:34,early
+Vehicle: 62618n,3201,Route 32,To Clinton Fringe Lot,Branchwood Towers,2021-02-15 00:00:00,1970-01-01 09:48:00,1970-01-01 09:47:50,1970-01-01 00:00:09,early
+Vehicle: 62618n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62618n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62620n,Vehicle: 62620n,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62620n,1301,Route 13,Loop B,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 06:04:00,1970-01-01 05:59:05,1970-01-01 00:04:54,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 06:35:00,1970-01-01 06:05:18,1970-01-01 00:29:41,early
+Vehicle: 62620n,1301,Route 13,Loop B,County Service Building,2021-02-15 00:00:00,1970-01-01 06:10:00,1970-01-01 06:14:39,-00:04:39,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 06:15:00,1970-01-01 06:18:16,-00:03:16,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Belcrest Rd at PG Plaza,2021-02-15 00:00:00,1970-01-01 06:21:00,1970-01-01 06:24:02,-00:03:02,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 06:25:00,1970-01-01 06:27:56,-00:02:56,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Ager Rd at Nicholson St,2021-02-15 00:00:00,1970-01-01 06:33:00,1970-01-01 06:31:34,1970-01-01 00:01:25,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 06:35:00,1970-01-01 06:33:25,1970-01-01 00:01:34,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 06:45:00,1970-01-01 06:47:28,-00:02:28,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 06:49:00,1970-01-01 06:50:35,-00:01:35,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,County Service Building,2021-02-15 00:00:00,1970-01-01 06:55:00,1970-01-01 06:57:29,-00:02:29,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 07:00:00,1970-01-01 07:02:23,-00:02:23,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Belcrest Rd at PG Plaza,2021-02-15 00:00:00,1970-01-01 07:06:00,1970-01-01 07:09:09,-00:03:09,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 07:10:00,1970-01-01 07:13:48,-00:03:48,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Ager Rd at Nicholson St,2021-02-15 00:00:00,1970-01-01 07:18:00,1970-01-01 07:17:54,1970-01-01 00:00:05,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 07:20:00,1970-01-01 07:19:48,1970-01-01 00:00:11,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 07:30:00,1970-01-01 07:31:39,-00:01:39,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 07:34:00,1970-01-01 07:34:41,-00:00:41,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,County Service Building,2021-02-15 00:00:00,1970-01-01 07:40:00,1970-01-01 07:40:23,-00:00:23,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 07:45:00,1970-01-01 07:45:18,-00:00:18,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Belcrest Rd at PG Plaza,2021-02-15 00:00:00,1970-01-01 07:51:00,1970-01-01 07:51:37,-00:00:37,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 07:55:00,1970-01-01 07:56:39,-00:01:39,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Ager Rd at Nicholson St,2021-02-15 00:00:00,1970-01-01 08:03:00,1970-01-01 08:00:03,1970-01-01 00:02:57,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 08:05:00,1970-01-01 08:02:34,1970-01-01 00:02:25,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 08:15:00,1970-01-01 08:17:07,-00:02:07,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 08:19:00,1970-01-01 08:20:17,-00:01:17,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,County Service Building,2021-02-15 00:00:00,1970-01-01 08:25:00,1970-01-01 08:26:30,-00:01:30,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 08:30:00,1970-01-01 08:30:14,-00:00:14,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Belcrest Rd at PG Plaza,2021-02-15 00:00:00,1970-01-01 08:36:00,1970-01-01 08:36:30,-00:00:30,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 08:40:00,1970-01-01 08:41:35,-00:01:35,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Ager Rd at Nicholson St,2021-02-15 00:00:00,1970-01-01 08:48:00,1970-01-01 08:44:56,1970-01-01 00:03:03,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 08:50:00,1970-01-01 08:46:50,1970-01-01 00:03:09,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 09:00:00,1970-01-01 09:02:14,-00:02:14,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 09:04:00,1970-01-01 09:05:27,-00:01:27,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,County Service Building,2021-02-15 00:00:00,1970-01-01 09:10:00,1970-01-01 09:10:34,-00:00:34,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 09:15:00,1970-01-01 09:15:15,-00:00:15,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Belcrest Rd at PG Plaza,2021-02-15 00:00:00,1970-01-01 09:21:00,1970-01-01 09:21:49,-00:00:49,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 09:25:00,1970-01-01 09:26:49,-00:01:49,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Ager Rd at Nicholson St,2021-02-15 00:00:00,1970-01-01 09:33:00,1970-01-01 09:32:36,1970-01-01 00:00:23,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 09:35:00,1970-01-01 09:34:37,1970-01-01 00:00:22,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 09:45:00,1970-01-01 09:46:58,-00:01:58,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 09:49:00,1970-01-01 09:51:11,-00:02:11,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,County Service Building,2021-02-15 00:00:00,1970-01-01 09:55:00,1970-01-01 09:55:31,-00:00:31,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 10:00:00,1970-01-01 09:59:40,1970-01-01 00:00:20,early
+Vehicle: 62620n,1301,Route 13,Loop B,Belcrest Rd at PG Plaza,2021-02-15 00:00:00,1970-01-01 10:06:00,1970-01-01 10:06:11,-00:00:11,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 10:10:00,1970-01-01 10:10:55,-00:00:55,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Ager Rd at Nicholson St,2021-02-15 00:00:00,1970-01-01 10:18:00,1970-01-01 10:15:32,1970-01-01 00:02:27,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 10:20:00,1970-01-01 10:18:11,1970-01-01 00:01:48,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 10:30:00,1970-01-01 10:31:05,-00:01:05,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 10:34:00,1970-01-01 10:35:48,-00:01:48,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,County Service Building,2021-02-15 00:00:00,1970-01-01 10:40:00,1970-01-01 10:40:35,-00:00:35,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 10:45:00,1970-01-01 10:46:38,-00:01:38,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Belcrest Rd at PG Plaza,2021-02-15 00:00:00,1970-01-01 10:51:00,1970-01-01 10:54:14,-00:03:14,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 10:55:00,1970-01-01 10:59:07,-00:04:07,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Ager Rd at Nicholson St,2021-02-15 00:00:00,1970-01-01 11:03:00,1970-01-01 11:05:41,-00:02:41,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 11:05:00,1970-01-01 11:07:29,-00:02:29,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 11:15:00,1970-01-01 11:16:01,-00:01:01,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 11:19:00,1970-01-01 11:19:47,-00:00:47,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,County Service Building,2021-02-15 00:00:00,1970-01-01 11:25:00,1970-01-01 11:25:34,-00:00:34,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 11:30:00,1970-01-01 11:30:02,-00:00:02,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Belcrest Rd at PG Plaza,2021-02-15 00:00:00,1970-01-01 11:36:00,1970-01-01 11:36:34,-00:00:34,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 11:40:00,1970-01-01 11:41:48,-00:01:48,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Ager Rd at Nicholson St,2021-02-15 00:00:00,1970-01-01 11:48:00,1970-01-01 11:47:48,1970-01-01 00:00:12,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 11:50:00,1970-01-01 11:50:01,-00:00:01,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 12:00:00,1970-01-01 12:02:03,-00:02:03,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 12:04:00,1970-01-01 12:04:33,-00:00:33,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,County Service Building,2021-02-15 00:00:00,1970-01-01 12:10:00,1970-01-01 12:09:13,1970-01-01 00:00:46,early
+Vehicle: 62620n,1301,Route 13,Loop B,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 12:15:00,1970-01-01 12:14:08,1970-01-01 00:00:52,early
+Vehicle: 62620n,1301,Route 13,Loop B,Belcrest Rd at PG Plaza,2021-02-15 00:00:00,1970-01-01 12:21:00,1970-01-01 12:21:15,-00:00:15,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 12:25:00,1970-01-01 12:26:59,-00:01:59,ontime
+Vehicle: 62620n,1301,Route 13,Loop B,Ager Rd at Nicholson St,2021-02-15 00:00:00,1970-01-01 12:33:00,1970-01-01 12:32:45,1970-01-01 00:00:14,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 12:35:00,1970-01-01 12:34:43,1970-01-01 00:00:16,early
+Vehicle: 62620n,1301,Route 13,Loop B,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 12:45:00,1970-01-01 12:34:47,1970-01-01 00:10:13,early
+Vehicle: 62620n,1301,Route 13,Loop B,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 12:49:00,1970-01-01 12:38:17,1970-01-01 00:10:42,early
+Vehicle: 62620n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62620n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62634n,Vehicle: 62634n,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Rhode Island (US RTE 1) at Mount Rainer Terminal,2021-02-15 00:00:00,1970-01-01 06:00:00,1970-01-01 06:02:12,-00:02:12,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Rhode Island Ave at County Service Building - NB,2021-02-15 00:00:00,1970-01-01 06:07:00,1970-01-01 06:06:07,1970-01-01 00:00:52,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 06:10:00,1970-01-01 06:08:53,1970-01-01 00:01:06,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 06:18:00,1970-01-01 06:13:41,1970-01-01 00:04:19,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 06:22:00,1970-01-01 06:21:22,1970-01-01 00:00:37,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 06:36:00,1970-01-01 06:31:31,1970-01-01 00:04:28,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 07:00:00,1970-01-01 07:01:16,-00:01:16,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 07:15:00,1970-01-01 07:08:57,1970-01-01 00:06:03,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 07:19:00,1970-01-01 07:15:30,1970-01-01 00:03:29,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 07:26:00,1970-01-01 07:29:23,-00:03:23,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Rhode Island Ave at County Service Building - SB,2021-02-15 00:00:00,1970-01-01 07:30:00,1970-01-01 07:32:36,-00:02:36,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Mt Rainier Terminal - Arrival,2021-02-15 00:00:00,1970-01-01 07:36:00,1970-01-01 07:39:31,-00:03:31,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Rhode Island (US RTE 1) at Mount Rainer Terminal,2021-02-15 00:00:00,1970-01-01 08:00:00,1970-01-01 08:01:08,-00:01:08,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Rhode Island Ave at County Service Building - NB,2021-02-15 00:00:00,1970-01-01 08:07:00,1970-01-01 08:04:58,1970-01-01 00:02:02,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 08:10:00,1970-01-01 08:08:25,1970-01-01 00:01:34,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 08:18:00,1970-01-01 08:17:04,1970-01-01 00:00:56,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 08:22:00,1970-01-01 08:26:21,-00:04:21,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 08:36:00,1970-01-01 09:04:00,-00:28:00,late
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 09:00:00,1970-01-01 09:04:00,-00:04:00,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 09:15:00,1970-01-01 09:13:14,1970-01-01 00:01:46,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 09:19:00,1970-01-01 09:20:02,-00:01:02,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 09:26:00,1970-01-01 09:25:33,1970-01-01 00:00:26,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Rhode Island Ave at County Service Building - SB,2021-02-15 00:00:00,1970-01-01 09:30:00,1970-01-01 09:29:11,1970-01-01 00:00:48,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Mt Rainier Terminal - Arrival,2021-02-15 00:00:00,1970-01-01 09:36:00,1970-01-01 09:34:40,1970-01-01 00:01:19,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Rhode Island (US RTE 1) at Mount Rainer Terminal,2021-02-15 00:00:00,1970-01-01 09:45:00,1970-01-01 09:45:52,-00:00:52,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Rhode Island Ave at County Service Building - NB,2021-02-15 00:00:00,1970-01-01 09:51:00,1970-01-01 09:50:15,1970-01-01 00:00:44,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 09:54:00,1970-01-01 09:54:33,-00:00:33,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 10:02:00,1970-01-01 10:01:28,1970-01-01 00:00:32,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 10:06:00,1970-01-01 10:09:15,-00:03:15,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 10:20:00,1970-01-01 10:31:36,-00:11:36,late
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 10:30:00,1970-01-01 10:31:47,-00:01:47,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 10:45:00,1970-01-01 10:40:42,1970-01-01 00:04:17,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 10:49:00,1970-01-01 10:47:27,1970-01-01 00:01:33,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 10:56:00,1970-01-01 10:55:02,1970-01-01 00:00:58,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Rhode Island Ave at County Service Building - SB,2021-02-15 00:00:00,1970-01-01 11:00:00,1970-01-01 11:01:17,-00:01:17,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Mt Rainier Terminal - Arrival,2021-02-15 00:00:00,1970-01-01 11:06:00,1970-01-01 11:17:55,-00:11:55,late
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Rhode Island (US RTE 1) at Mount Rainer Terminal,2021-02-15 00:00:00,1970-01-01 11:15:00,1970-01-01 11:17:55,-00:02:55,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Rhode Island Ave at County Service Building - NB,2021-02-15 00:00:00,1970-01-01 11:21:00,1970-01-01 11:21:47,-00:00:47,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 11:24:00,1970-01-01 11:25:15,-00:01:15,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 11:32:00,1970-01-01 11:32:08,-00:00:08,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 11:36:00,1970-01-01 11:44:21,-00:08:21,late
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 11:50:00,1970-01-01 11:53:29,-00:03:29,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 12:00:00,1970-01-01 12:00:56,-00:00:56,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 12:15:00,1970-01-01 12:13:51,1970-01-01 00:01:09,early
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 12:19:00,1970-01-01 12:22:45,-00:03:45,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 12:26:00,1970-01-01 12:29:45,-00:03:45,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Rhode Island Ave at County Service Building - SB,2021-02-15 00:00:00,1970-01-01 12:30:00,1970-01-01 12:33:07,-00:03:07,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Southbound,Mt Rainier Terminal - Arrival,2021-02-15 00:00:00,1970-01-01 12:36:00,1970-01-01 12:45:24,-00:09:24,late
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Rhode Island (US RTE 1) at Mount Rainer Terminal,2021-02-15 00:00:00,1970-01-01 12:45:00,1970-01-01 12:48:26,-00:03:26,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Rhode Island Ave at County Service Building - NB,2021-02-15 00:00:00,1970-01-01 12:51:00,1970-01-01 12:51:59,-00:00:59,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 12:54:00,1970-01-01 12:57:13,-00:03:13,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 13:02:00,1970-01-01 13:03:05,-00:01:05,ontime
+Vehicle: 62634n,1701,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 13:06:00,1970-01-01 13:16:44,-00:10:44,late
+Vehicle: 62634n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62634n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62646n,Vehicle: 62646n,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62646n,2104,Route 21,County Courthouse,Largo Rd at Hancock Dr,2021-02-15 00:00:00,1970-01-01 08:08:00,1970-01-01 08:24:04,-00:16:04,late
+Vehicle: 62646n,2104,Route 21,County Courthouse,Equestrian Center Lot 1,2021-02-15 00:00:00,1970-01-01 08:22:00,1970-01-01 08:40:37,-00:18:37,late
+Vehicle: 62646n,2104,Route 21,To New Carrollton Station,County Courthouse,2021-02-15 00:00:00,1970-01-01 08:30:00,1970-01-01 08:40:37,-00:10:37,late
+Vehicle: 62646n,2104,Route 21,To New Carrollton Station,Largo Rd at Black Swan Dr,2021-02-15 00:00:00,1970-01-01 08:42:00,1970-01-01 08:49:31,-00:07:31,late
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 15:45:00,1970-01-01 15:45:46,-00:00:46,ontime
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Southbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 15:49:00,1970-01-01 15:55:45,-00:06:45,ontime
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 15:56:00,1970-01-01 16:03:33,-00:07:33,late
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Southbound,Rhode Island Ave at County Service Building - SB,2021-02-15 00:00:00,1970-01-01 16:00:00,1970-01-01 16:07:27,-00:07:27,late
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Southbound,Mt Rainier Terminal - Arrival,2021-02-15 00:00:00,1970-01-01 16:06:00,1970-01-01 16:12:35,-00:06:35,ontime
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Northbound,Rhode Island (US RTE 1) at Mount Rainer Terminal,2021-02-15 00:00:00,1970-01-01 16:30:00,1970-01-01 16:29:11,1970-01-01 00:00:49,early
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Northbound,Rhode Island Ave at County Service Building - NB,2021-02-15 00:00:00,1970-01-01 16:36:00,1970-01-01 16:34:28,1970-01-01 00:01:31,early
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 16:39:00,1970-01-01 16:42:28,-00:03:28,ontime
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Northbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 16:47:00,1970-01-01 16:48:41,-00:01:41,ontime
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 16:51:00,1970-01-01 16:57:44,-00:06:44,ontime
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Northbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 17:05:00,1970-01-01 17:32:35,-00:27:35,late
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Southbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 17:30:00,1970-01-01 17:32:46,-00:02:46,ontime
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 17:45:00,1970-01-01 17:44:20,1970-01-01 00:00:39,early
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Southbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 17:49:00,1970-01-01 17:53:36,-00:04:36,ontime
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 17:56:00,1970-01-01 18:00:55,-00:04:55,ontime
+Vehicle: 62646n,1704R,Route 17 (Route 1 Ride),Southbound,Rhode Island Ave at County Service Building - SB,2021-02-15 00:00:00,1970-01-01 18:00:00,1970-01-01 18:04:22,-00:04:22,ontime
+Vehicle: 62646n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62646n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62649n,Vehicle: 62649n,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 06:15:00,1970-01-01 06:11:26,1970-01-01 00:03:34,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 06:19:00,1970-01-01 06:18:21,1970-01-01 00:00:38,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 06:26:00,1970-01-01 06:23:02,1970-01-01 00:02:58,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Rhode Island Ave at County Service Building - SB,2021-02-15 00:00:00,1970-01-01 06:30:00,1970-01-01 06:25:50,1970-01-01 00:04:09,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Mt Rainier Terminal - Arrival,2021-02-15 00:00:00,1970-01-01 06:36:00,1970-01-01 07:04:22,-00:28:22,late
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Rhode Island (US RTE 1) at Mount Rainer Terminal,2021-02-15 00:00:00,1970-01-01 07:00:00,1970-01-01 07:04:22,-00:04:22,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Rhode Island Ave at County Service Building - NB,2021-02-15 00:00:00,1970-01-01 07:07:00,1970-01-01 07:07:57,-00:00:57,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 07:10:00,1970-01-01 07:11:25,-00:01:25,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 07:18:00,1970-01-01 07:18:12,-00:00:12,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 07:22:00,1970-01-01 07:24:04,-00:02:04,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 07:36:00,1970-01-01 08:02:01,-00:26:01,late
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 08:00:00,1970-01-01 08:02:13,-00:02:13,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 08:15:00,1970-01-01 08:10:51,1970-01-01 00:04:08,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 08:19:00,1970-01-01 08:17:50,1970-01-01 00:01:10,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 08:26:00,1970-01-01 08:23:45,1970-01-01 00:02:15,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Rhode Island Ave at County Service Building - SB,2021-02-15 00:00:00,1970-01-01 08:30:00,1970-01-01 08:26:28,1970-01-01 00:03:32,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Mt Rainier Terminal - Arrival,2021-02-15 00:00:00,1970-01-01 08:36:00,1970-01-01 09:03:04,-00:27:04,late
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Rhode Island (US RTE 1) at Mount Rainer Terminal,2021-02-15 00:00:00,1970-01-01 09:00:00,1970-01-01 09:03:04,-00:03:04,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Rhode Island Ave at County Service Building - NB,2021-02-15 00:00:00,1970-01-01 09:06:00,1970-01-01 09:06:57,-00:00:57,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 09:09:00,1970-01-01 09:12:11,-00:03:11,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 09:17:00,1970-01-01 09:18:26,-00:01:26,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 09:21:00,1970-01-01 09:24:44,-00:03:44,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 09:35:00,1970-01-01 09:45:44,-00:10:44,late
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 09:45:00,1970-01-01 09:46:13,-00:01:13,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 10:00:00,1970-01-01 09:58:01,1970-01-01 00:01:58,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 10:04:00,1970-01-01 10:05:17,-00:01:17,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 10:11:00,1970-01-01 10:10:28,1970-01-01 00:00:32,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Rhode Island Ave at County Service Building - SB,2021-02-15 00:00:00,1970-01-01 10:15:00,1970-01-01 10:13:48,1970-01-01 00:01:11,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Mt Rainier Terminal - Arrival,2021-02-15 00:00:00,1970-01-01 10:21:00,1970-01-01 10:17:58,1970-01-01 00:03:01,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Rhode Island (US RTE 1) at Mount Rainer Terminal,2021-02-15 00:00:00,1970-01-01 10:30:00,1970-01-01 10:34:46,-00:04:46,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Rhode Island Ave at County Service Building - NB,2021-02-15 00:00:00,1970-01-01 10:36:00,1970-01-01 10:38:55,-00:02:55,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 10:39:00,1970-01-01 10:42:43,-00:03:43,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 10:47:00,1970-01-01 10:48:21,-00:01:21,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 10:51:00,1970-01-01 10:55:47,-00:04:47,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 11:05:00,1970-01-01 11:15:05,-00:10:05,late
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 11:15:00,1970-01-01 11:15:15,-00:00:15,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 11:30:00,1970-01-01 11:23:17,1970-01-01 00:06:42,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 11:34:00,1970-01-01 11:28:45,1970-01-01 00:05:15,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 11:41:00,1970-01-01 11:34:58,1970-01-01 00:06:01,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Rhode Island Ave at County Service Building - SB,2021-02-15 00:00:00,1970-01-01 11:45:00,1970-01-01 11:39:08,1970-01-01 00:05:51,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Southbound,Mt Rainier Terminal - Arrival,2021-02-15 00:00:00,1970-01-01 11:51:00,1970-01-01 11:45:03,1970-01-01 00:05:56,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Rhode Island (US RTE 1) at Mount Rainer Terminal,2021-02-15 00:00:00,1970-01-01 12:00:00,1970-01-01 12:00:25,-00:00:25,ontime
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Rhode Island Ave at County Service Building - NB,2021-02-15 00:00:00,1970-01-01 12:06:00,1970-01-01 12:04:13,1970-01-01 00:01:46,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 12:09:00,1970-01-01 12:07:19,1970-01-01 00:01:40,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 12:17:00,1970-01-01 12:14:07,1970-01-01 00:02:53,early
+Vehicle: 62649n,1703,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 12:21:00,1970-01-01 12:24:51,-00:03:51,ontime
+Vehicle: 62649n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62649n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62650n,Vehicle: 62650n,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Largo Rd at Black Swan Dr,2021-02-15 00:00:00,1970-01-01 06:12:00,1970-01-01 06:16:00,-00:04:00,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Campus Way South at College Station Dr (PGCC),2021-02-15 00:00:00,1970-01-01 06:22:00,1970-01-01 06:22:03,-00:00:03,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Largo Town Center Station,2021-02-15 00:00:00,1970-01-01 06:31:00,1970-01-01 06:32:03,-00:01:03,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Brightseat Rd at Opp. Maple Ridge Apts #1,2021-02-15 00:00:00,1970-01-01 06:41:00,1970-01-01 06:41:12,-00:00:12,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,New Carrollton Station - Arrival,2021-02-15 00:00:00,1970-01-01 06:53:00,1970-01-01 06:53:10,-00:00:10,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,New Carrollton Station,2021-02-15 00:00:00,1970-01-01 07:00:00,1970-01-01 07:04:12,-00:04:12,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Brightseat Rd at Maple Ridge Apts #1,2021-02-15 00:00:00,1970-01-01 07:12:00,1970-01-01 07:16:08,-00:04:08,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Largo Town Center Station,2021-02-15 00:00:00,1970-01-01 07:22:00,1970-01-01 07:27:26,-00:05:26,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Campus Way South at College Station Dr (PGCC),2021-02-15 00:00:00,1970-01-01 07:27:00,1970-01-01 07:35:12,-00:08:12,late
+Vehicle: 62650n,2103,Route 21,County Courthouse,Largo Rd at Hancock Dr,2021-02-15 00:00:00,1970-01-01 07:38:00,1970-01-01 07:40:24,-00:02:24,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Equestrian Center Lot 1,2021-02-15 00:00:00,1970-01-01 07:52:00,1970-01-01 07:55:30,-00:03:30,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,County Courthouse,2021-02-15 00:00:00,1970-01-01 08:00:00,1970-01-01 07:55:30,1970-01-01 00:04:29,early
+Vehicle: 62650n,2103,Route 21,County Courthouse,Equestrian Center Lot 1,2021-02-15 00:00:00,1970-01-01 07:52:00,1970-01-01 08:03:23,-00:11:23,late
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,County Courthouse,2021-02-15 00:00:00,1970-01-01 08:00:00,1970-01-01 08:03:23,-00:03:23,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Largo Rd at Black Swan Dr,2021-02-15 00:00:00,1970-01-01 08:12:00,1970-01-01 08:16:38,-00:04:38,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Campus Way South at College Station Dr (PGCC),2021-02-15 00:00:00,1970-01-01 08:22:00,1970-01-01 08:21:49,1970-01-01 00:00:10,early
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Largo Town Center Station,2021-02-15 00:00:00,1970-01-01 08:31:00,1970-01-01 08:32:13,-00:01:13,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Brightseat Rd at Opp. Maple Ridge Apts #1,2021-02-15 00:00:00,1970-01-01 08:41:00,1970-01-01 08:41:15,-00:00:15,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,New Carrollton Station - Arrival,2021-02-15 00:00:00,1970-01-01 08:53:00,1970-01-01 08:53:24,-00:00:24,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,New Carrollton Station,2021-02-15 00:00:00,1970-01-01 09:00:00,1970-01-01 09:01:08,-00:01:08,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Brightseat Rd at Maple Ridge Apts #1,2021-02-15 00:00:00,1970-01-01 09:12:00,1970-01-01 09:12:31,-00:00:31,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Largo Town Center Station,2021-02-15 00:00:00,1970-01-01 09:22:00,1970-01-01 09:24:31,-00:02:31,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Campus Way South at College Station Dr (PGCC),2021-02-15 00:00:00,1970-01-01 09:27:00,1970-01-01 09:32:06,-00:05:06,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Largo Rd at Hancock Dr,2021-02-15 00:00:00,1970-01-01 09:38:00,1970-01-01 09:37:17,1970-01-01 00:00:42,early
+Vehicle: 62650n,2103,Route 21,County Courthouse,Equestrian Center Lot 1,2021-02-15 00:00:00,1970-01-01 09:52:00,1970-01-01 09:47:41,1970-01-01 00:04:18,early
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,County Courthouse,2021-02-15 00:00:00,1970-01-01 10:00:00,1970-01-01 09:47:41,1970-01-01 00:12:18,early
+Vehicle: 62650n,2103,Route 21,County Courthouse,Equestrian Center Lot 1,2021-02-15 00:00:00,1970-01-01 09:52:00,1970-01-01 10:03:14,-00:11:14,late
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,County Courthouse,2021-02-15 00:00:00,1970-01-01 10:00:00,1970-01-01 10:03:14,-00:03:14,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Largo Rd at Black Swan Dr,2021-02-15 00:00:00,1970-01-01 10:12:00,1970-01-01 10:14:50,-00:02:50,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Campus Way South at College Station Dr (PGCC),2021-02-15 00:00:00,1970-01-01 10:22:00,1970-01-01 10:20:18,1970-01-01 00:01:41,early
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Largo Town Center Station,2021-02-15 00:00:00,1970-01-01 10:31:00,1970-01-01 10:31:44,-00:00:44,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Brightseat Rd at Opp. Maple Ridge Apts #1,2021-02-15 00:00:00,1970-01-01 10:41:00,1970-01-01 10:41:11,-00:00:11,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,New Carrollton Station - Arrival,2021-02-15 00:00:00,1970-01-01 10:53:00,1970-01-01 10:53:12,-00:00:12,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,New Carrollton Station,2021-02-15 00:00:00,1970-01-01 11:00:00,1970-01-01 11:01:18,-00:01:18,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Brightseat Rd at Maple Ridge Apts #1,2021-02-15 00:00:00,1970-01-01 11:12:00,1970-01-01 11:11:50,1970-01-01 00:00:09,early
+Vehicle: 62650n,2103,Route 21,County Courthouse,Largo Town Center Station,2021-02-15 00:00:00,1970-01-01 11:22:00,1970-01-01 11:23:52,-00:01:52,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Campus Way South at College Station Dr (PGCC),2021-02-15 00:00:00,1970-01-01 11:27:00,1970-01-01 11:33:01,-00:06:01,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Largo Rd at Hancock Dr,2021-02-15 00:00:00,1970-01-01 11:38:00,1970-01-01 11:39:16,-00:01:16,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Equestrian Center Lot 1,2021-02-15 00:00:00,1970-01-01 11:52:00,1970-01-01 12:01:51,-00:09:51,late
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,County Courthouse,2021-02-15 00:00:00,1970-01-01 12:00:00,1970-01-01 12:02:18,-00:02:18,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Largo Rd at Black Swan Dr,2021-02-15 00:00:00,1970-01-01 12:12:00,1970-01-01 12:21:01,-00:09:01,late
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Campus Way South at College Station Dr (PGCC),2021-02-15 00:00:00,1970-01-01 12:22:00,1970-01-01 12:26:25,-00:04:25,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Largo Town Center Station,2021-02-15 00:00:00,1970-01-01 12:31:00,1970-01-01 12:36:05,-00:05:05,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Brightseat Rd at Opp. Maple Ridge Apts #1,2021-02-15 00:00:00,1970-01-01 12:41:00,1970-01-01 12:45:16,-00:04:16,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,New Carrollton Station - Arrival,2021-02-15 00:00:00,1970-01-01 12:53:00,1970-01-01 12:55:36,-00:02:36,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,New Carrollton Station,2021-02-15 00:00:00,1970-01-01 13:00:00,1970-01-01 13:00:38,-00:00:38,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Brightseat Rd at Maple Ridge Apts #1,2021-02-15 00:00:00,1970-01-01 13:12:00,1970-01-01 13:12:59,-00:00:59,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Largo Town Center Station,2021-02-15 00:00:00,1970-01-01 13:22:00,1970-01-01 13:22:20,-00:00:20,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Campus Way South at College Station Dr (PGCC),2021-02-15 00:00:00,1970-01-01 13:27:00,1970-01-01 13:31:51,-00:04:51,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Largo Rd at Hancock Dr,2021-02-15 00:00:00,1970-01-01 13:38:00,1970-01-01 13:38:08,-00:00:08,ontime
+Vehicle: 62650n,2103,Route 21,County Courthouse,Equestrian Center Lot 1,2021-02-15 00:00:00,1970-01-01 13:52:00,1970-01-01 13:49:04,1970-01-01 00:02:55,early
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,County Courthouse,2021-02-15 00:00:00,1970-01-01 14:00:00,1970-01-01 13:49:04,1970-01-01 00:10:55,early
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,County Courthouse,2021-02-15 00:00:00,1970-01-01 14:00:00,1970-01-01 14:05:24,-00:05:24,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Largo Rd at Black Swan Dr,2021-02-15 00:00:00,1970-01-01 14:12:00,1970-01-01 14:16:16,-00:04:16,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Campus Way South at College Station Dr (PGCC),2021-02-15 00:00:00,1970-01-01 14:22:00,1970-01-01 14:21:30,1970-01-01 00:00:29,early
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Largo Town Center Station,2021-02-15 00:00:00,1970-01-01 14:31:00,1970-01-01 14:32:36,-00:01:36,ontime
+Vehicle: 62650n,2103,Route 21,To New Carrollton Station,Brightseat Rd at Opp. Maple Ridge Apts #1,2021-02-15 00:00:00,1970-01-01 14:41:00,1970-01-01 14:41:05,-00:00:05,ontime
+Vehicle: 62650n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 62650n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63012,Vehicle: 63012,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Morgan Blvd Metro Station,2021-02-15 00:00:00,1970-01-01 06:00:00,1970-01-01 06:03:37,-00:03:37,ontime
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Old Forestville Rd at Forestville Rd,2021-02-15 00:00:00,1970-01-01 06:18:00,1970-01-01 06:18:11,-00:00:11,ontime
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,District Heights Municipal Bldg,2021-02-15 00:00:00,1970-01-01 06:26:00,1970-01-01 06:24:27,1970-01-01 00:01:32,early
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Council Dr at Kipling Pkwy,2021-02-15 00:00:00,1970-01-01 06:32:00,1970-01-01 06:29:06,1970-01-01 00:02:53,early
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Brooks Dr at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 06:36:00,1970-01-01 06:37:45,-00:01:45,ontime
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Denise Dr at Rollins Ave,2021-02-15 00:00:00,1970-01-01 06:39:00,1970-01-01 06:43:41,-00:04:41,ontime
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Capitol Heights - Arrival,2021-02-15 00:00:00,1970-01-01 06:45:00,1970-01-01 06:53:42,-00:08:42,late
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,Capitol Heights Station Bay B,2021-02-15 00:00:00,1970-01-01 07:00:00,1970-01-01 07:01:54,-00:01:54,ontime
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,Denise Dr at Rollins Ave,2021-02-15 00:00:00,1970-01-01 07:08:00,1970-01-01 07:08:22,-00:00:22,ontime
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,Brooks Drive at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 07:14:00,1970-01-01 07:15:47,-00:01:47,ontime
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,Kipling Pkwy at Council Dr,2021-02-15 00:00:00,1970-01-01 07:19:00,1970-01-01 07:25:43,-00:06:43,ontime
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,District Heights Municipal Bldg,2021-02-15 00:00:00,1970-01-01 07:22:00,1970-01-01 07:31:32,-00:09:32,late
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,Old Forestville Rd at Forestville Rd,2021-02-15 00:00:00,1970-01-01 07:27:00,1970-01-01 07:37:38,-00:10:38,late
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,Morgan Blvd Metro Station,2021-02-15 00:00:00,1970-01-01 07:36:00,1970-01-01 08:03:46,-00:27:46,late
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Morgan Blvd Metro Station,2021-02-15 00:00:00,1970-01-01 08:00:00,1970-01-01 08:04:28,-00:04:28,ontime
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Old Forestville Rd at Forestville Rd,2021-02-15 00:00:00,1970-01-01 08:18:00,1970-01-01 08:17:17,1970-01-01 00:00:43,early
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,District Heights Municipal Bldg,2021-02-15 00:00:00,1970-01-01 08:26:00,1970-01-01 08:24:05,1970-01-01 00:01:54,early
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Council Dr at Kipling Pkwy,2021-02-15 00:00:00,1970-01-01 08:32:00,1970-01-01 08:28:46,1970-01-01 00:03:13,early
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Brooks Dr at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 08:36:00,1970-01-01 08:38:29,-00:02:29,ontime
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Denise Dr at Rollins Ave,2021-02-15 00:00:00,1970-01-01 08:39:00,1970-01-01 08:43:37,-00:04:37,ontime
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Capitol Heights - Arrival,2021-02-15 00:00:00,1970-01-01 08:45:00,1970-01-01 08:54:20,-00:09:20,late
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,Capitol Heights Station Bay B,2021-02-15 00:00:00,1970-01-01 09:00:00,1970-01-01 09:02:49,-00:02:49,ontime
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,Denise Dr at Rollins Ave,2021-02-15 00:00:00,1970-01-01 09:08:00,1970-01-01 09:09:17,-00:01:17,ontime
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,Brooks Drive at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 09:14:00,1970-01-01 09:16:48,-00:02:48,ontime
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,Kipling Pkwy at Council Dr,2021-02-15 00:00:00,1970-01-01 09:19:00,1970-01-01 09:24:13,-00:05:13,ontime
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,District Heights Municipal Bldg,2021-02-15 00:00:00,1970-01-01 09:22:00,1970-01-01 09:30:13,-00:08:13,late
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,Old Forestville Rd at Forestville Rd,2021-02-15 00:00:00,1970-01-01 09:27:00,1970-01-01 09:36:47,-00:09:47,late
+Vehicle: 63012,2403,Route 24,To Morgan Blvd Metro Center,Morgan Blvd Metro Station,2021-02-15 00:00:00,1970-01-01 09:36:00,1970-01-01 10:02:14,-00:26:14,late
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Morgan Blvd Metro Station,2021-02-15 00:00:00,1970-01-01 10:00:00,1970-01-01 10:02:22,-00:02:22,ontime
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Old Forestville Rd at Forestville Rd,2021-02-15 00:00:00,1970-01-01 10:18:00,1970-01-01 10:18:05,-00:00:05,ontime
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,District Heights Municipal Bldg,2021-02-15 00:00:00,1970-01-01 10:26:00,1970-01-01 10:24:21,1970-01-01 00:01:38,early
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Council Dr at Kipling Pkwy,2021-02-15 00:00:00,1970-01-01 10:32:00,1970-01-01 10:28:43,1970-01-01 00:03:17,early
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Brooks Dr at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 10:36:00,1970-01-01 10:36:32,-00:00:32,ontime
+Vehicle: 63012,2403,Route 24,To Capitol Heights Metro,Denise Dr at Rollins Ave,2021-02-15 00:00:00,1970-01-01 10:39:00,1970-01-01 10:41:26,-00:02:26,ontime
+Vehicle: 63012,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63012,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63013,Vehicle: 63013,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63013,2003R,Route 20,Eastbound,Donnell Drive at Target Store,2021-02-15 00:00:00,1970-01-01 13:11:00,1970-01-01 13:23:49,-00:12:49,late
+Vehicle: 63013,2003R,Route 20,Eastbound,Melwood Training Center,2021-02-15 00:00:00,1970-01-01 13:24:00,1970-01-01 13:33:50,-00:09:50,late
+Vehicle: 63013,2003R,Route 20,Eastbound,Marlboro Pike at Melwood Mall,2021-02-15 00:00:00,1970-01-01 13:28:00,1970-01-01 13:38:26,-00:10:26,late
+Vehicle: 63013,2003R,Route 20,Eastbound,Old Marlboro Pike at Roblee Dr,2021-02-15 00:00:00,1970-01-01 13:36:00,1970-01-01 13:43:54,-00:07:54,late
+Vehicle: 63013,2003R,Route 20,Eastbound,Old Marlboro Pike at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 13:45:00,1970-01-01 13:50:07,-00:05:07,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,Courthouse,2021-02-15 00:00:00,1970-01-01 13:49:00,1970-01-01 13:51:38,-00:02:38,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,CAB - Arrival,2021-02-15 00:00:00,1970-01-01 13:50:00,1970-01-01 13:52:32,-00:02:32,ontime
+Vehicle: 63013,2003R,Route 20,Westbound,County Administration Building,2021-02-15 00:00:00,1970-01-01 14:00:00,1970-01-01 14:09:02,-00:09:02,late
+Vehicle: 63013,2003R,Route 20,Westbound,Courthouse,2021-02-15 00:00:00,1970-01-01 14:02:00,1970-01-01 14:12:42,-00:10:42,late
+Vehicle: 63013,2003R,Route 20,Westbound,Old Marlboro Pike at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 14:05:00,1970-01-01 14:15:02,-00:10:02,late
+Vehicle: 63013,2003R,Route 20,Westbound,Old Marlboro Pike at Roblee Dr,2021-02-15 00:00:00,1970-01-01 14:14:00,1970-01-01 14:22:16,-00:08:16,late
+Vehicle: 63013,2003R,Route 20,Westbound,Marlboro Pike at Melwood Mall,2021-02-15 00:00:00,1970-01-01 14:21:00,1970-01-01 14:27:30,-00:06:30,ontime
+Vehicle: 63013,2003R,Route 20,Westbound,Melwood Training Center,2021-02-15 00:00:00,1970-01-01 14:26:00,1970-01-01 14:30:32,-00:04:32,ontime
+Vehicle: 63013,2003R,Route 20,Westbound,Donnell Dr at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 14:38:00,1970-01-01 14:40:32,-00:02:32,ontime
+Vehicle: 63013,2003R,Route 20,Westbound,Addison Rd Metrorail - Arrival,2021-02-15 00:00:00,1970-01-01 14:50:00,1970-01-01 14:51:10,-00:01:10,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,Addison Rd Metrorail Station,2021-02-15 00:00:00,1970-01-01 15:00:00,1970-01-01 15:07:55,-00:07:55,late
+Vehicle: 63013,2003R,Route 20,Eastbound,Donnell Drive at Target Store,2021-02-15 00:00:00,1970-01-01 15:11:00,1970-01-01 15:20:29,-00:09:29,late
+Vehicle: 63013,2003R,Route 20,Eastbound,Melwood Training Center,2021-02-15 00:00:00,1970-01-01 15:24:00,1970-01-01 15:30:24,-00:06:24,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,Marlboro Pike at Melwood Mall,2021-02-15 00:00:00,1970-01-01 15:28:00,1970-01-01 15:35:27,-00:07:27,late
+Vehicle: 63013,2003R,Route 20,Eastbound,Old Marlboro Pike at Roblee Dr,2021-02-15 00:00:00,1970-01-01 15:36:00,1970-01-01 15:40:52,-00:04:52,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,Old Marlboro Pike at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 15:45:00,1970-01-01 15:47:17,-00:02:17,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,Courthouse,2021-02-15 00:00:00,1970-01-01 15:49:00,1970-01-01 15:48:46,1970-01-01 00:00:13,early
+Vehicle: 63013,2003R,Route 20,Eastbound,CAB - Arrival,2021-02-15 00:00:00,1970-01-01 15:50:00,1970-01-01 15:49:24,1970-01-01 00:00:35,early
+Vehicle: 63013,2003R,Route 20,Westbound,County Administration Building,2021-02-15 00:00:00,1970-01-01 16:00:00,1970-01-01 16:10:39,-00:10:39,late
+Vehicle: 63013,2003R,Route 20,Westbound,Courthouse,2021-02-15 00:00:00,1970-01-01 16:02:00,1970-01-01 16:13:01,-00:11:01,late
+Vehicle: 63013,2003R,Route 20,Westbound,Old Marlboro Pike at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 16:05:00,1970-01-01 16:15:39,-00:10:39,late
+Vehicle: 63013,2003R,Route 20,Westbound,Old Marlboro Pike at Roblee Dr,2021-02-15 00:00:00,1970-01-01 16:14:00,1970-01-01 16:21:07,-00:07:07,late
+Vehicle: 63013,2003R,Route 20,Westbound,Marlboro Pike at Melwood Mall,2021-02-15 00:00:00,1970-01-01 16:21:00,1970-01-01 16:25:07,-00:04:07,ontime
+Vehicle: 63013,2003R,Route 20,Westbound,Melwood Training Center,2021-02-15 00:00:00,1970-01-01 16:26:00,1970-01-01 16:28:20,-00:02:20,ontime
+Vehicle: 63013,2003R,Route 20,Westbound,Donnell Dr at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 16:38:00,1970-01-01 16:40:36,-00:02:36,ontime
+Vehicle: 63013,2003R,Route 20,Westbound,Addison Rd Metrorail - Arrival,2021-02-15 00:00:00,1970-01-01 16:50:00,1970-01-01 16:52:40,-00:02:40,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,Addison Rd Metrorail Station,2021-02-15 00:00:00,1970-01-01 17:00:00,1970-01-01 17:03:35,-00:03:35,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,Melwood Training Center,2021-02-15 00:00:00,1970-01-01 17:24:00,1970-01-01 17:28:49,-00:04:49,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,Marlboro Pike at Melwood Mall,2021-02-15 00:00:00,1970-01-01 17:28:00,1970-01-01 17:33:58,-00:05:58,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,Old Marlboro Pike at Roblee Dr,2021-02-15 00:00:00,1970-01-01 17:36:00,1970-01-01 17:38:56,-00:02:56,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,Old Marlboro Pike at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 17:45:00,1970-01-01 17:45:36,-00:00:36,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,Courthouse,2021-02-15 00:00:00,1970-01-01 17:49:00,1970-01-01 17:49:08,-00:00:08,ontime
+Vehicle: 63013,2003R,Route 20,Eastbound,CAB - Arrival,2021-02-15 00:00:00,1970-01-01 17:50:00,1970-01-01 17:51:04,-00:01:04,ontime
+Vehicle: 63013,2003R,Route 20,Westbound,County Administration Building,2021-02-15 00:00:00,1970-01-01 18:00:00,1970-01-01 18:06:15,-00:06:15,ontime
+Vehicle: 63013,2003R,Route 20,Westbound,Courthouse,2021-02-15 00:00:00,1970-01-01 18:02:00,1970-01-01 18:09:23,-00:07:23,late
+Vehicle: 63013,2003R,Route 20,Westbound,Old Marlboro Pike at John Rogers Blvd,2021-02-15 00:00:00,1970-01-01 18:05:00,1970-01-01 18:12:17,-00:07:17,late
+Vehicle: 63013,2003R,Route 20,Westbound,Old Marlboro Pike at Roblee Dr,2021-02-15 00:00:00,1970-01-01 18:14:00,1970-01-01 18:19:32,-00:05:32,ontime
+Vehicle: 63013,2003R,Route 20,Westbound,Marlboro Pike at Melwood Mall,2021-02-15 00:00:00,1970-01-01 18:21:00,1970-01-01 18:23:59,-00:02:59,ontime
+Vehicle: 63013,2003R,Route 20,Westbound,Melwood Training Center,2021-02-15 00:00:00,1970-01-01 18:26:00,1970-01-01 18:28:16,-00:02:16,ontime
+Vehicle: 63013,2003R,Route 20,Westbound,Donnell Dr at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 18:38:00,1970-01-01 18:38:01,-00:00:01,ontime
+Vehicle: 63013,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63013,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63016,Vehicle: 63016,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63016,1805R,Route 18,Northbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 14:14:00,1970-01-01 14:16:11,-00:02:11,ontime
+Vehicle: 63016,1805R,Route 18,Northbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 14:21:00,1970-01-01 14:23:29,-00:02:29,ontime
+Vehicle: 63016,1805R,Route 18,Northbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 14:37:00,1970-01-01 14:38:13,-00:01:13,ontime
+Vehicle: 63016,1805R,Route 18,Northbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 14:43:00,1970-01-01 14:44:27,-00:01:27,ontime
+Vehicle: 63016,1805R,Route 18,Northbound,East-West Hwy at Prince George's Mall Ent.,2021-02-15 00:00:00,1970-01-01 14:49:00,1970-01-01 14:52:42,-00:03:42,ontime
+Vehicle: 63016,1805R,Route 18,Northbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 14:57:00,1970-01-01 15:02:53,-00:05:53,ontime
+Vehicle: 63016,1805R,Route 18,Northbound,Takoma Langley Park Transit Center Bus Bay B (hidden arrival),2021-02-15 00:00:00,1970-01-01 15:05:00,1970-01-01 15:16:07,-00:11:07,late
+Vehicle: 63016,1805R,Route 18,Southbound,Takoma Langley Park Transit Center Bus Bay B,2021-02-15 00:00:00,1970-01-01 15:30:00,1970-01-01 15:33:45,-00:03:45,ontime
+Vehicle: 63016,1805R,Route 18,Southbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 15:37:00,1970-01-01 15:43:31,-00:06:31,ontime
+Vehicle: 63016,1805R,Route 18,Southbound,PG Plaza,2021-02-15 00:00:00,1970-01-01 15:45:00,1970-01-01 15:54:45,-00:09:45,late
+Vehicle: 63016,1805R,Route 18,Southbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 15:52:00,1970-01-01 16:01:12,-00:09:12,late
+Vehicle: 63016,1805R,Route 18,Southbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 15:59:00,1970-01-01 16:09:22,-00:10:22,late
+Vehicle: 63016,1805R,Route 18,Southbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 16:14:00,1970-01-01 16:24:41,-00:10:41,late
+Vehicle: 63016,1805R,Route 18,Southbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 16:21:00,1970-01-01 16:29:53,-00:08:53,late
+Vehicle: 63016,1805R,Route 18,Southbound,Addison Rd Metrorail - Arrival,2021-02-15 00:00:00,1970-01-01 16:34:00,1970-01-01 16:44:04,-00:10:04,late
+Vehicle: 63016,1805R,Route 18,Southbound,Addison Rd Metrorail - Arrival,2021-02-15 00:00:00,1970-01-01 16:34:00,1970-01-01 17:07:35,-00:33:35,late
+Vehicle: 63016,1805R,Route 18,Northbound,Addison Rd Metrorail Station,2021-02-15 00:00:00,1970-01-01 17:00:00,1970-01-01 17:08:41,-00:08:41,late
+Vehicle: 63016,1805R,Route 18,Northbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 17:14:00,1970-01-01 17:23:59,-00:09:59,late
+Vehicle: 63016,1805R,Route 18,Northbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 17:21:00,1970-01-01 17:30:17,-00:09:17,late
+Vehicle: 63016,1805R,Route 18,Northbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 17:37:00,1970-01-01 17:44:37,-00:07:37,late
+Vehicle: 63016,1805R,Route 18,Northbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 17:43:00,1970-01-01 17:51:17,-00:08:17,late
+Vehicle: 63016,1805R,Route 18,Northbound,East-West Hwy at Prince George's Mall Ent.,2021-02-15 00:00:00,1970-01-01 17:49:00,1970-01-01 17:58:46,-00:09:46,late
+Vehicle: 63016,1805R,Route 18,Northbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 17:57:00,1970-01-01 18:07:28,-00:10:28,late
+Vehicle: 63016,1805R,Route 18,Northbound,Takoma Langley Park Transit Center Bus Bay B (hidden arrival),2021-02-15 00:00:00,1970-01-01 18:05:00,1970-01-01 18:32:31,-00:27:31,late
+Vehicle: 63016,1805R,Route 18,Southbound,Takoma Langley Park Transit Center Bus Bay B,2021-02-15 00:00:00,1970-01-01 18:30:00,1970-01-01 18:33:15,-00:03:15,ontime
+Vehicle: 63016,1805R,Route 18,Southbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 18:37:00,1970-01-01 18:45:32,-00:08:32,late
+Vehicle: 63016,1805R,Route 18,Southbound,PG Plaza,2021-02-15 00:00:00,1970-01-01 18:45:00,1970-01-01 18:55:48,-00:10:48,late
+Vehicle: 63016,1805R,Route 18,Southbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 18:52:00,1970-01-01 19:00:26,-00:08:26,late
+Vehicle: 63016,1805R,Route 18,Southbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 18:59:00,1970-01-01 19:08:03,-00:09:03,late
+Vehicle: 63016,1805R,Route 18,Southbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 19:14:00,1970-01-01 19:24:50,-00:10:50,late
+Vehicle: 63016,1805R,Route 18,Southbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 19:21:00,1970-01-01 19:30:53,-00:09:53,late
+Vehicle: 63016,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63016,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63020,Vehicle: 63020,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63020,1603,Route 16,Southbound,Greenbelt Metro Station Bus Bay A,2021-02-15 00:00:00,1970-01-01 06:00:00,1970-01-01 06:00:27,-00:00:27,ontime
+Vehicle: 63020,1603,Route 16,Southbound,Cherrywood Ln at Greenbelt Rd (MD. RTE. 193),2021-02-15 00:00:00,1970-01-01 06:09:00,1970-01-01 06:08:27,1970-01-01 00:00:33,early
+Vehicle: 63020,1603,Route 16,Southbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 06:12:00,1970-01-01 06:12:07,-00:00:07,ontime
+Vehicle: 63020,1603,Route 16,Southbound,Hanover Pkwy at Greenway Center Dr,2021-02-15 00:00:00,1970-01-01 06:25:00,1970-01-01 06:21:09,1970-01-01 00:03:51,early
+Vehicle: 63020,1603,Route 16,Southbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 06:31:00,1970-01-01 06:26:43,1970-01-01 00:04:16,early
+Vehicle: 63020,1603,Route 16,Southbound,Lamont Dr at Lamont Pl,2021-02-15 00:00:00,1970-01-01 06:36:00,1970-01-01 06:31:51,1970-01-01 00:04:09,early
+Vehicle: 63020,1603,Route 16,Southbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 06:43:00,1970-01-01 06:37:53,1970-01-01 00:05:06,early
+Vehicle: 63020,1603,Route 16,Northbound,New Carrollton Station,2021-02-15 00:00:00,1970-01-01 07:00:00,1970-01-01 07:01:13,-00:01:13,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 07:05:00,1970-01-01 07:05:08,-00:00:08,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Lamont Dr at Donoghue Dr,2021-02-15 00:00:00,1970-01-01 07:11:00,1970-01-01 07:10:13,1970-01-01 00:00:46,early
+Vehicle: 63020,1603,Route 16,Northbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 07:16:00,1970-01-01 07:15:04,1970-01-01 00:00:56,early
+Vehicle: 63020,1603,Route 16,Northbound,Hanover Pkwy at Ora Glen Dr,2021-02-15 00:00:00,1970-01-01 07:22:00,1970-01-01 07:20:59,1970-01-01 00:01:01,early
+Vehicle: 63020,1603,Route 16,Northbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 07:36:00,1970-01-01 07:31:29,1970-01-01 00:04:31,early
+Vehicle: 63020,1603,Route 16,Northbound,Beltway Plaza Shopping Center,2021-02-15 00:00:00,1970-01-01 07:39:00,1970-01-01 07:36:42,1970-01-01 00:02:17,early
+Vehicle: 63020,1603,Route 16,Northbound,Greenbelt Metro Station (Arrival),2021-02-15 00:00:00,1970-01-01 07:47:00,1970-01-01 07:44:21,1970-01-01 00:02:38,early
+Vehicle: 63020,1603,Route 16,Northbound,Greenbelt Metro Station (Arrival),2021-02-15 00:00:00,1970-01-01 07:47:00,1970-01-01 07:59:11,-00:12:11,late
+Vehicle: 63020,1603,Route 16,Southbound,Greenbelt Metro Station Bus Bay A,2021-02-15 00:00:00,1970-01-01 08:00:00,1970-01-01 07:59:11,1970-01-01 00:00:48,early
+Vehicle: 63020,1603,Route 16,Southbound,Cherrywood Ln at Greenbelt Rd (MD. RTE. 193),2021-02-15 00:00:00,1970-01-01 08:09:00,1970-01-01 08:08:40,1970-01-01 00:00:19,early
+Vehicle: 63020,1603,Route 16,Southbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 08:12:00,1970-01-01 08:12:12,-00:00:12,ontime
+Vehicle: 63020,1603,Route 16,Southbound,Hanover Pkwy at Greenway Center Dr,2021-02-15 00:00:00,1970-01-01 08:25:00,1970-01-01 08:23:20,1970-01-01 00:01:40,early
+Vehicle: 63020,1603,Route 16,Southbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 08:31:00,1970-01-01 08:29:55,1970-01-01 00:01:04,early
+Vehicle: 63020,1603,Route 16,Southbound,Lamont Dr at Lamont Pl,2021-02-15 00:00:00,1970-01-01 08:36:00,1970-01-01 08:35:08,1970-01-01 00:00:51,early
+Vehicle: 63020,1603,Route 16,Southbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 08:43:00,1970-01-01 08:40:10,1970-01-01 00:02:49,early
+Vehicle: 63020,1603,Route 16,Southbound,New Carrollton Station - Arrival,2021-02-15 00:00:00,1970-01-01 08:48:00,1970-01-01 08:45:44,1970-01-01 00:02:15,early
+Vehicle: 63020,1603,Route 16,Northbound,New Carrollton Station,2021-02-15 00:00:00,1970-01-01 09:00:00,1970-01-01 09:04:03,-00:04:03,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 09:05:00,1970-01-01 09:08:27,-00:03:27,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Lamont Dr at Donoghue Dr,2021-02-15 00:00:00,1970-01-01 09:11:00,1970-01-01 09:13:04,-00:02:04,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 09:16:00,1970-01-01 09:16:59,-00:00:59,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Hanover Pkwy at Ora Glen Dr,2021-02-15 00:00:00,1970-01-01 09:22:00,1970-01-01 09:23:35,-00:01:35,ontime
+Vehicle: 63020,1603,Route 16,Northbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 09:36:00,1970-01-01 09:35:25,1970-01-01 00:00:34,early
+Vehicle: 63020,1603,Route 16,Northbound,Beltway Plaza Shopping Center,2021-02-15 00:00:00,1970-01-01 09:39:00,1970-01-01 09:39:42,-00:00:42,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Greenbelt Metro Station (Arrival),2021-02-15 00:00:00,1970-01-01 09:47:00,1970-01-01 09:46:22,1970-01-01 00:00:38,early
+Vehicle: 63020,1603,Route 16,Southbound,Greenbelt Metro Station Bus Bay A,2021-02-15 00:00:00,1970-01-01 10:00:00,1970-01-01 09:59:48,1970-01-01 00:00:11,early
+Vehicle: 63020,1603,Route 16,Southbound,Cherrywood Ln at Greenbelt Rd (MD. RTE. 193),2021-02-15 00:00:00,1970-01-01 10:09:00,1970-01-01 10:08:54,1970-01-01 00:00:06,early
+Vehicle: 63020,1603,Route 16,Southbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 10:12:00,1970-01-01 10:14:02,-00:02:02,ontime
+Vehicle: 63020,1603,Route 16,Southbound,Hanover Pkwy at Greenway Center Dr,2021-02-15 00:00:00,1970-01-01 10:25:00,1970-01-01 10:24:22,1970-01-01 00:00:37,early
+Vehicle: 63020,1603,Route 16,Southbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 10:31:00,1970-01-01 10:30:29,1970-01-01 00:00:31,early
+Vehicle: 63020,1603,Route 16,Southbound,Lamont Dr at Lamont Pl,2021-02-15 00:00:00,1970-01-01 10:36:00,1970-01-01 10:36:57,-00:00:57,ontime
+Vehicle: 63020,1603,Route 16,Southbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 10:43:00,1970-01-01 10:42:38,1970-01-01 00:00:21,early
+Vehicle: 63020,1603,Route 16,Southbound,New Carrollton Station - Arrival,2021-02-15 00:00:00,1970-01-01 10:48:00,1970-01-01 10:48:15,-00:00:15,ontime
+Vehicle: 63020,1603,Route 16,Northbound,New Carrollton Station,2021-02-15 00:00:00,1970-01-01 11:00:00,1970-01-01 11:02:20,-00:02:20,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 11:05:00,1970-01-01 11:06:56,-00:01:56,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Lamont Dr at Donoghue Dr,2021-02-15 00:00:00,1970-01-01 11:11:00,1970-01-01 11:11:26,-00:00:26,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 11:16:00,1970-01-01 11:15:23,1970-01-01 00:00:36,early
+Vehicle: 63020,1603,Route 16,Northbound,Hanover Pkwy at Ora Glen Dr,2021-02-15 00:00:00,1970-01-01 11:22:00,1970-01-01 11:22:26,-00:00:26,ontime
+Vehicle: 63020,1603,Route 16,Northbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 11:36:00,1970-01-01 11:35:56,1970-01-01 00:00:03,early
+Vehicle: 63020,1603,Route 16,Northbound,Beltway Plaza Shopping Center,2021-02-15 00:00:00,1970-01-01 11:39:00,1970-01-01 11:41:06,-00:02:06,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Greenbelt Metro Station (Arrival),2021-02-15 00:00:00,1970-01-01 11:47:00,1970-01-01 11:48:59,-00:01:59,ontime
+Vehicle: 63020,1603,Route 16,Southbound,Greenbelt Metro Station Bus Bay A,2021-02-15 00:00:00,1970-01-01 12:00:00,1970-01-01 12:02:03,-00:02:03,ontime
+Vehicle: 63020,1603,Route 16,Southbound,Cherrywood Ln at Greenbelt Rd (MD. RTE. 193),2021-02-15 00:00:00,1970-01-01 12:09:00,1970-01-01 12:10:19,-00:01:19,ontime
+Vehicle: 63020,1603,Route 16,Southbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 12:12:00,1970-01-01 12:13:40,-00:01:40,ontime
+Vehicle: 63020,1603,Route 16,Southbound,Hanover Pkwy at Greenway Center Dr,2021-02-15 00:00:00,1970-01-01 12:25:00,1970-01-01 12:24:38,1970-01-01 00:00:22,early
+Vehicle: 63020,1603,Route 16,Southbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 12:31:00,1970-01-01 12:30:51,1970-01-01 00:00:09,early
+Vehicle: 63020,1603,Route 16,Southbound,Lamont Dr at Lamont Pl,2021-02-15 00:00:00,1970-01-01 12:36:00,1970-01-01 12:35:22,1970-01-01 00:00:38,early
+Vehicle: 63020,1603,Route 16,Southbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 12:43:00,1970-01-01 12:40:42,1970-01-01 00:02:17,early
+Vehicle: 63020,1603,Route 16,Southbound,New Carrollton Station - Arrival,2021-02-15 00:00:00,1970-01-01 12:48:00,1970-01-01 12:46:54,1970-01-01 00:01:05,early
+Vehicle: 63020,1603,Route 16,Northbound,New Carrollton Station,2021-02-15 00:00:00,1970-01-01 13:00:00,1970-01-01 13:01:22,-00:01:22,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 13:05:00,1970-01-01 13:06:52,-00:01:52,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Lamont Dr at Donoghue Dr,2021-02-15 00:00:00,1970-01-01 13:11:00,1970-01-01 13:11:19,-00:00:19,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 13:16:00,1970-01-01 13:15:11,1970-01-01 00:00:49,early
+Vehicle: 63020,1603,Route 16,Northbound,Hanover Pkwy at Ora Glen Dr,2021-02-15 00:00:00,1970-01-01 13:22:00,1970-01-01 13:20:06,1970-01-01 00:01:53,early
+Vehicle: 63020,1603,Route 16,Northbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 13:36:00,1970-01-01 13:36:09,-00:00:09,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Beltway Plaza Shopping Center,2021-02-15 00:00:00,1970-01-01 13:39:00,1970-01-01 13:40:25,-00:01:25,ontime
+Vehicle: 63020,1603,Route 16,Northbound,Greenbelt Metro Station (Arrival),2021-02-15 00:00:00,1970-01-01 13:47:00,1970-01-01 14:00:09,-00:13:09,late
+Vehicle: 63020,1603,Route 16,Southbound,Greenbelt Metro Station Bus Bay A,2021-02-15 00:00:00,1970-01-01 14:00:00,1970-01-01 14:00:52,-00:00:52,ontime
+Vehicle: 63020,1603,Route 16,Southbound,Cherrywood Ln at Greenbelt Rd (MD. RTE. 193),2021-02-15 00:00:00,1970-01-01 14:09:00,1970-01-01 14:09:32,-00:00:32,ontime
+Vehicle: 63020,1603,Route 16,Southbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 14:12:00,1970-01-01 14:12:36,-00:00:36,ontime
+Vehicle: 63020,1603,Route 16,Southbound,Hanover Pkwy at Greenway Center Dr,2021-02-15 00:00:00,1970-01-01 14:25:00,1970-01-01 14:24:08,1970-01-01 00:00:51,early
+Vehicle: 63020,1603,Route 16,Southbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 14:31:00,1970-01-01 14:29:07,1970-01-01 00:01:52,early
+Vehicle: 63020,1603,Route 16,Southbound,Lamont Dr at Lamont Pl,2021-02-15 00:00:00,1970-01-01 14:36:00,1970-01-01 14:34:32,1970-01-01 00:01:27,early
+Vehicle: 63020,1603,Route 16,Southbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 14:43:00,1970-01-01 14:42:37,1970-01-01 00:00:23,early
+Vehicle: 63020,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63020,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63021,Vehicle: 63021,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63021,1803,Route 18,Northbound,Addison Rd Metrorail Station,2021-02-15 00:00:00,1970-01-01 07:00:00,1970-01-01 07:00:39,-00:00:39,ontime
+Vehicle: 63021,1803,Route 18,Northbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 07:14:00,1970-01-01 07:19:55,-00:05:55,ontime
+Vehicle: 63021,1803,Route 18,Northbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 07:21:00,1970-01-01 07:27:13,-00:06:13,ontime
+Vehicle: 63021,1803,Route 18,Northbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 07:37:00,1970-01-01 07:43:44,-00:06:44,ontime
+Vehicle: 63021,1803,Route 18,Northbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 07:43:00,1970-01-01 07:50:26,-00:07:26,late
+Vehicle: 63021,1803,Route 18,Northbound,East-West Hwy at Prince George's Mall Ent.,2021-02-15 00:00:00,1970-01-01 07:49:00,1970-01-01 07:57:34,-00:08:34,late
+Vehicle: 63021,1803,Route 18,Northbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 07:57:00,1970-01-01 08:06:47,-00:09:47,late
+Vehicle: 63021,1803,Route 18,Northbound,Takoma Langley Park Transit Center Bus Bay B (hidden arrival),2021-02-15 00:00:00,1970-01-01 08:05:00,1970-01-01 08:18:52,-00:13:52,late
+Vehicle: 63021,1803,Route 18,Southbound,Takoma Langley Park Transit Center Bus Bay B,2021-02-15 00:00:00,1970-01-01 08:30:00,1970-01-01 08:32:55,-00:02:55,ontime
+Vehicle: 63021,1803,Route 18,Southbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 08:37:00,1970-01-01 08:45:10,-00:08:10,late
+Vehicle: 63021,1803,Route 18,Southbound,PG Plaza,2021-02-15 00:00:00,1970-01-01 08:45:00,1970-01-01 08:53:00,-00:08:00,late
+Vehicle: 63021,1803,Route 18,Southbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 08:52:00,1970-01-01 08:58:10,-00:06:10,ontime
+Vehicle: 63021,1803,Route 18,Southbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 08:59:00,1970-01-01 09:04:18,-00:05:18,ontime
+Vehicle: 63021,1803,Route 18,Southbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 09:14:00,1970-01-01 09:17:38,-00:03:38,ontime
+Vehicle: 63021,1803,Route 18,Southbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 09:21:00,1970-01-01 09:22:52,-00:01:52,ontime
+Vehicle: 63021,1803,Route 18,Southbound,Addison Rd Metrorail - Arrival,2021-02-15 00:00:00,1970-01-01 09:34:00,1970-01-01 09:36:09,-00:02:09,ontime
+Vehicle: 63021,1803,Route 18,Southbound,Addison Rd Metrorail - Arrival,2021-02-15 00:00:00,1970-01-01 09:34:00,1970-01-01 09:58:24,-00:24:24,late
+Vehicle: 63021,1803,Route 18,Northbound,Addison Rd Metrorail Station,2021-02-15 00:00:00,1970-01-01 10:00:00,1970-01-01 09:59:51,1970-01-01 00:00:08,early
+Vehicle: 63021,1803,Route 18,Northbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 10:14:00,1970-01-01 10:14:14,-00:00:14,ontime
+Vehicle: 63021,1803,Route 18,Northbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 10:21:00,1970-01-01 10:22:36,-00:01:36,ontime
+Vehicle: 63021,1803,Route 18,Northbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 10:37:00,1970-01-01 10:41:51,-00:04:51,ontime
+Vehicle: 63021,1803,Route 18,Northbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 10:43:00,1970-01-01 10:49:36,-00:06:36,ontime
+Vehicle: 63021,1803,Route 18,Northbound,East-West Hwy at Prince George's Mall Ent.,2021-02-15 00:00:00,1970-01-01 10:49:00,1970-01-01 10:56:05,-00:07:05,late
+Vehicle: 63021,1803,Route 18,Northbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 10:57:00,1970-01-01 11:04:14,-00:07:14,late
+Vehicle: 63021,1803,Route 18,Northbound,Takoma Langley Park Transit Center Bus Bay B (hidden arrival),2021-02-15 00:00:00,1970-01-01 11:05:00,1970-01-01 11:16:33,-00:11:33,late
+Vehicle: 63021,1803,Route 18,Southbound,Takoma Langley Park Transit Center Bus Bay B,2021-02-15 00:00:00,1970-01-01 11:30:00,1970-01-01 11:31:37,-00:01:37,ontime
+Vehicle: 63021,1803,Route 18,Southbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 11:37:00,1970-01-01 11:43:35,-00:06:35,ontime
+Vehicle: 63021,1803,Route 18,Southbound,PG Plaza,2021-02-15 00:00:00,1970-01-01 11:45:00,1970-01-01 11:54:00,-00:09:00,late
+Vehicle: 63021,1803,Route 18,Southbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 11:52:00,1970-01-01 11:59:22,-00:07:22,late
+Vehicle: 63021,1803,Route 18,Southbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 11:59:00,1970-01-01 12:05:31,-00:06:31,ontime
+Vehicle: 63021,1803,Route 18,Southbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 12:14:00,1970-01-01 12:20:19,-00:06:19,ontime
+Vehicle: 63021,1803,Route 18,Southbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 12:21:00,1970-01-01 12:24:37,-00:03:37,ontime
+Vehicle: 63021,1803,Route 18,Southbound,Addison Rd Metrorail - Arrival,2021-02-15 00:00:00,1970-01-01 12:34:00,1970-01-01 12:38:29,-00:04:29,ontime
+Vehicle: 63021,1803,Route 18,Southbound,Addison Rd Metrorail - Arrival,2021-02-15 00:00:00,1970-01-01 12:34:00,1970-01-01 12:55:53,-00:21:53,late
+Vehicle: 63021,1803,Route 18,Northbound,Addison Rd Metrorail Station,2021-02-15 00:00:00,1970-01-01 13:00:00,1970-01-01 13:00:00,-00:00:00,ontime
+Vehicle: 63021,1803,Route 18,Northbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 13:14:00,1970-01-01 13:15:57,-00:01:57,ontime
+Vehicle: 63021,1803,Route 18,Northbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 13:21:00,1970-01-01 13:22:54,-00:01:54,ontime
+Vehicle: 63021,1803,Route 18,Northbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 13:37:00,1970-01-01 13:39:53,-00:02:53,ontime
+Vehicle: 63021,1803,Route 18,Northbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 13:43:00,1970-01-01 13:46:55,-00:03:55,ontime
+Vehicle: 63021,1803,Route 18,Northbound,East-West Hwy at Prince George's Mall Ent.,2021-02-15 00:00:00,1970-01-01 13:49:00,1970-01-01 13:53:54,-00:04:54,ontime
+Vehicle: 63021,1803,Route 18,Northbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 13:57:00,1970-01-01 14:03:22,-00:06:22,ontime
+Vehicle: 63021,1803,Route 18,Northbound,Takoma Langley Park Transit Center Bus Bay B (hidden arrival),2021-02-15 00:00:00,1970-01-01 14:05:00,1970-01-01 14:17:32,-00:12:32,late
+Vehicle: 63021,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63021,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63023,Vehicle: 63023,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Fringe Parking Lot Bus Bay B,2021-02-15 00:00:00,1970-01-01 07:14:00,1970-01-01 07:18:03,-00:04:03,ontime
+Vehicle: 63023,3503,Route 35,Loop,Stars Entrance Gaylord Hotel at National Harbor Blvd,2021-02-15 00:00:00,1970-01-01 07:23:00,1970-01-01 07:27:00,-00:04:00,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Fringe Parking Lot at Bus Bay F,2021-02-15 00:00:00,1970-01-01 07:33:00,1970-01-01 07:34:01,-00:01:01,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Rd at 6192 Oxon Hill Rd,2021-02-15 00:00:00,1970-01-01 07:38:00,1970-01-01 07:38:14,-00:00:14,ontime
+Vehicle: 63023,3503,Route 35,Loop,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 08:06:00,1970-01-01 08:07:08,-00:01:08,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Rd at Rivertown Commons(6135),2021-02-15 00:00:00,1970-01-01 08:28:00,1970-01-01 08:31:37,-00:03:37,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Rd at Oxon Hill Fringe Parking Lot,2021-02-15 00:00:00,1970-01-01 08:33:00,1970-01-01 08:37:07,-00:04:07,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Fringe Parking Lot Bus Bay B,2021-02-15 00:00:00,1970-01-01 09:14:00,1970-01-01 09:26:02,-00:12:02,late
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Fringe Parking Lot at Bus Bay F,2021-02-15 00:00:00,1970-01-01 09:33:00,1970-01-01 09:42:26,-00:09:26,late
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Rd at 6192 Oxon Hill Rd,2021-02-15 00:00:00,1970-01-01 09:38:00,1970-01-01 09:47:18,-00:09:18,late
+Vehicle: 63023,3503,Route 35,Loop,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 10:06:00,1970-01-01 10:09:44,-00:03:44,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Rd at Rivertown Commons(6135),2021-02-15 00:00:00,1970-01-01 10:28:00,1970-01-01 10:27:54,1970-01-01 00:00:06,early
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Rd at Oxon Hill Fringe Parking Lot,2021-02-15 00:00:00,1970-01-01 10:33:00,1970-01-01 10:33:43,-00:00:43,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Fringe Parking Lot Bus Bay B,2021-02-15 00:00:00,1970-01-01 11:14:00,1970-01-01 11:20:24,-00:06:24,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Fringe Parking Lot at Bus Bay F,2021-02-15 00:00:00,1970-01-01 11:33:00,1970-01-01 11:36:36,-00:03:36,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Rd at 6192 Oxon Hill Rd,2021-02-15 00:00:00,1970-01-01 11:38:00,1970-01-01 11:41:52,-00:03:52,ontime
+Vehicle: 63023,3503,Route 35,Loop,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 12:06:00,1970-01-01 12:06:12,-00:00:12,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Rd at Rivertown Commons(6135),2021-02-15 00:00:00,1970-01-01 12:28:00,1970-01-01 12:24:10,1970-01-01 00:03:50,early
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Rd at Oxon Hill Fringe Parking Lot,2021-02-15 00:00:00,1970-01-01 12:33:00,1970-01-01 12:30:28,1970-01-01 00:02:31,early
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Fringe Parking Lot Bus Bay B,2021-02-15 00:00:00,1970-01-01 13:14:00,1970-01-01 13:17:17,-00:03:17,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Fringe Parking Lot at Bus Bay F,2021-02-15 00:00:00,1970-01-01 13:33:00,1970-01-01 13:35:32,-00:02:32,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Rd at 6192 Oxon Hill Rd,2021-02-15 00:00:00,1970-01-01 13:38:00,1970-01-01 13:41:46,-00:03:46,ontime
+Vehicle: 63023,3503,Route 35,Loop,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 14:06:00,1970-01-01 14:09:27,-00:03:27,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Rd at Rivertown Commons(6135),2021-02-15 00:00:00,1970-01-01 14:28:00,1970-01-01 14:29:59,-00:01:59,ontime
+Vehicle: 63023,3503,Route 35,Loop,Oxon Hill Rd at Oxon Hill Fringe Parking Lot,2021-02-15 00:00:00,1970-01-01 14:33:00,1970-01-01 14:39:06,-00:06:06,ontime
+Vehicle: 63023,3503,Route 35,Loop,Southern Ave Metro Rail Station at Bus Bay F,2021-02-15 00:00:00,1970-01-01 14:48:00,1970-01-01 15:00:58,-00:12:58,late
+Vehicle: 63023,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63023,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63024,Vehicle: 63024,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Campus Way North at Grey Gables Ct,2021-02-15 00:00:00,1970-01-01 06:07:00,1970-01-01 06:15:04,-00:08:04,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,RUBY LOCKHART BLVD AT CAMPUS WAY NORTH,2021-02-15 00:00:00,1970-01-01 06:12:00,1970-01-01 06:19:50,-00:07:50,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,1400 Merchantile Ln,2021-02-15 00:00:00,1970-01-01 06:20:00,1970-01-01 06:26:05,-00:06:05,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Jericho Residences (Southbound),2021-02-15 00:00:00,1970-01-01 06:26:00,1970-01-01 06:31:12,-00:05:12,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Arena Dr at Shoppers Way (Largo),2021-02-15 00:00:00,1970-01-01 06:32:00,1970-01-01 06:33:05,-00:01:05,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 06:37:00,1970-01-01 06:42:50,-00:05:50,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 06:45:00,1970-01-01 06:42:50,1970-01-01 00:02:09,early
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Campus Way North at Grey Gables Ct,2021-02-15 00:00:00,1970-01-01 06:52:00,1970-01-01 06:59:55,-00:07:55,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,RUBY LOCKHART BLVD AT CAMPUS WAY NORTH,2021-02-15 00:00:00,1970-01-01 06:57:00,1970-01-01 07:04:32,-00:07:32,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,1400 Merchantile Ln,2021-02-15 00:00:00,1970-01-01 07:10:00,1970-01-01 07:12:34,-00:02:34,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Jericho Residences (Southbound),2021-02-15 00:00:00,1970-01-01 07:16:00,1970-01-01 07:18:12,-00:02:12,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Arena Dr at Shoppers Way (Largo),2021-02-15 00:00:00,1970-01-01 07:22:00,1970-01-01 07:20:29,1970-01-01 00:01:31,early
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 07:27:00,1970-01-01 07:35:34,-00:08:34,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 07:30:00,1970-01-01 07:35:34,-00:05:34,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Campus Way North at Grey Gables Ct,2021-02-15 00:00:00,1970-01-01 07:37:00,1970-01-01 07:42:22,-00:05:22,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,RUBY LOCKHART BLVD AT CAMPUS WAY NORTH,2021-02-15 00:00:00,1970-01-01 07:42:00,1970-01-01 07:46:20,-00:04:20,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,1400 Merchantile Ln,2021-02-15 00:00:00,1970-01-01 07:55:00,1970-01-01 07:55:07,-00:00:07,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Jericho Residences (Southbound),2021-02-15 00:00:00,1970-01-01 08:01:00,1970-01-01 08:01:30,-00:00:30,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Arena Dr at Shoppers Way (Largo),2021-02-15 00:00:00,1970-01-01 08:07:00,1970-01-01 08:03:32,1970-01-01 00:03:27,early
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 08:12:00,1970-01-01 08:22:43,-00:10:43,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 08:15:00,1970-01-01 08:22:44,-00:07:44,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Campus Way North at Grey Gables Ct,2021-02-15 00:00:00,1970-01-01 08:22:00,1970-01-01 08:29:57,-00:07:57,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,RUBY LOCKHART BLVD AT CAMPUS WAY NORTH,2021-02-15 00:00:00,1970-01-01 08:27:00,1970-01-01 08:34:32,-00:07:32,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,1400 Merchantile Ln,2021-02-15 00:00:00,1970-01-01 08:40:00,1970-01-01 08:42:14,-00:02:14,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Jericho Residences (Southbound),2021-02-15 00:00:00,1970-01-01 08:46:00,1970-01-01 08:48:50,-00:02:50,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Arena Dr at Shoppers Way (Largo),2021-02-15 00:00:00,1970-01-01 08:52:00,1970-01-01 08:51:23,1970-01-01 00:00:37,early
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 08:57:00,1970-01-01 09:07:08,-00:10:08,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 09:00:00,1970-01-01 09:07:08,-00:07:08,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Campus Way North at Grey Gables Ct,2021-02-15 00:00:00,1970-01-01 09:07:00,1970-01-01 09:12:36,-00:05:36,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,RUBY LOCKHART BLVD AT CAMPUS WAY NORTH,2021-02-15 00:00:00,1970-01-01 09:12:00,1970-01-01 09:17:32,-00:05:32,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,1400 Merchantile Ln,2021-02-15 00:00:00,1970-01-01 09:20:00,1970-01-01 09:24:26,-00:04:26,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Jericho Residences (Southbound),2021-02-15 00:00:00,1970-01-01 09:26:00,1970-01-01 09:31:05,-00:05:05,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Arena Dr at Shoppers Way (Largo),2021-02-15 00:00:00,1970-01-01 09:32:00,1970-01-01 09:33:24,-00:01:24,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 09:37:00,1970-01-01 09:50:52,-00:13:52,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 09:45:00,1970-01-01 09:50:52,-00:05:52,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Campus Way North at Grey Gables Ct,2021-02-15 00:00:00,1970-01-01 09:52:00,1970-01-01 09:57:29,-00:05:29,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,RUBY LOCKHART BLVD AT CAMPUS WAY NORTH,2021-02-15 00:00:00,1970-01-01 09:57:00,1970-01-01 10:02:34,-00:05:34,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,1400 Merchantile Ln,2021-02-15 00:00:00,1970-01-01 10:05:00,1970-01-01 10:09:53,-00:04:53,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Jericho Residences (Southbound),2021-02-15 00:00:00,1970-01-01 10:11:00,1970-01-01 10:16:30,-00:05:30,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Arena Dr at Shoppers Way (Largo),2021-02-15 00:00:00,1970-01-01 10:17:00,1970-01-01 10:18:32,-00:01:32,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 10:22:00,1970-01-01 10:35:52,-00:13:52,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 10:30:00,1970-01-01 10:35:54,-00:05:54,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Campus Way North at Grey Gables Ct,2021-02-15 00:00:00,1970-01-01 10:37:00,1970-01-01 10:42:44,-00:05:44,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,RUBY LOCKHART BLVD AT CAMPUS WAY NORTH,2021-02-15 00:00:00,1970-01-01 10:42:00,1970-01-01 10:47:25,-00:05:25,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,1400 Merchantile Ln,2021-02-15 00:00:00,1970-01-01 10:50:00,1970-01-01 10:54:25,-00:04:25,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Jericho Residences (Southbound),2021-02-15 00:00:00,1970-01-01 10:56:00,1970-01-01 11:00:32,-00:04:32,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Arena Dr at Shoppers Way (Largo),2021-02-15 00:00:00,1970-01-01 11:02:00,1970-01-01 11:02:31,-00:00:31,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 11:07:00,1970-01-01 11:22:07,-00:15:07,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 11:15:00,1970-01-01 11:22:07,-00:07:07,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Campus Way North at Grey Gables Ct,2021-02-15 00:00:00,1970-01-01 11:22:00,1970-01-01 11:29:38,-00:07:38,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,RUBY LOCKHART BLVD AT CAMPUS WAY NORTH,2021-02-15 00:00:00,1970-01-01 11:27:00,1970-01-01 11:34:22,-00:07:22,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,1400 Merchantile Ln,2021-02-15 00:00:00,1970-01-01 11:35:00,1970-01-01 11:39:13,-00:04:13,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Arena Dr at Shoppers Way (Largo),2021-02-15 00:00:00,1970-01-01 11:47:00,1970-01-01 11:48:29,-00:01:29,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 11:52:00,1970-01-01 12:06:40,-00:14:40,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 12:00:00,1970-01-01 12:06:42,-00:06:42,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Campus Way North at Grey Gables Ct,2021-02-15 00:00:00,1970-01-01 12:07:00,1970-01-01 12:14:48,-00:07:48,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,RUBY LOCKHART BLVD AT CAMPUS WAY NORTH,2021-02-15 00:00:00,1970-01-01 12:12:00,1970-01-01 12:19:24,-00:07:24,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,1400 Merchantile Ln,2021-02-15 00:00:00,1970-01-01 12:20:00,1970-01-01 12:24:06,-00:04:06,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Jericho Residences (Southbound),2021-02-15 00:00:00,1970-01-01 12:26:00,1970-01-01 12:29:30,-00:03:30,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Arena Dr at Shoppers Way (Largo),2021-02-15 00:00:00,1970-01-01 12:32:00,1970-01-01 12:31:36,1970-01-01 00:00:24,early
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 12:37:00,1970-01-01 12:53:18,-00:16:18,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Largo Town Center Station at Bus Bay E,2021-02-15 00:00:00,1970-01-01 12:45:00,1970-01-01 12:53:18,-00:08:18,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Campus Way North at Grey Gables Ct,2021-02-15 00:00:00,1970-01-01 12:52:00,1970-01-01 12:59:38,-00:07:38,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,RUBY LOCKHART BLVD AT CAMPUS WAY NORTH,2021-02-15 00:00:00,1970-01-01 12:57:00,1970-01-01 13:04:23,-00:07:23,late
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,1400 Merchantile Ln,2021-02-15 00:00:00,1970-01-01 13:05:00,1970-01-01 13:09:11,-00:04:11,ontime
+Vehicle: 63024,2802,Route 28,To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B,Jericho Residences (Southbound),2021-02-15 00:00:00,1970-01-01 13:11:00,1970-01-01 13:15:06,-00:04:06,ontime
+Vehicle: 63024,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63024,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63027,Vehicle: 63027,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63027,3402,Route 34,to Capital Crossing Apartments,Suitland Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 06:15:00,1970-01-01 06:15:35,-00:00:35,ontime
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,3930 Capitol Crossing Apts,2021-02-15 00:00:00,1970-01-01 06:26:00,1970-01-01 06:22:47,1970-01-01 00:03:12,early
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,4258 Whitehall Square Apts,2021-02-15 00:00:00,1970-01-01 06:32:00,1970-01-01 06:29:48,1970-01-01 00:02:12,early
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,Suitland Metro - Arrival,2021-02-15 00:00:00,1970-01-01 06:42:00,1970-01-01 06:45:28,-00:03:28,ontime
+Vehicle: 63027,3402,Route 34,to Capital Crossing Apartments,Suitland Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 06:45:00,1970-01-01 06:45:50,-00:00:50,ontime
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,3930 Capitol Crossing Apts,2021-02-15 00:00:00,1970-01-01 06:56:00,1970-01-01 06:55:19,1970-01-01 00:00:40,early
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,4258 Whitehall Square Apts,2021-02-15 00:00:00,1970-01-01 07:02:00,1970-01-01 07:00:56,1970-01-01 00:01:03,early
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,Suitland Metro - Arrival,2021-02-15 00:00:00,1970-01-01 07:12:00,1970-01-01 07:10:49,1970-01-01 00:01:10,early
+Vehicle: 63027,3402,Route 34,to Capital Crossing Apartments,Suitland Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 07:15:00,1970-01-01 07:15:25,-00:00:25,ontime
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,3930 Capitol Crossing Apts,2021-02-15 00:00:00,1970-01-01 07:26:00,1970-01-01 07:26:06,-00:00:06,ontime
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,4258 Whitehall Square Apts,2021-02-15 00:00:00,1970-01-01 07:32:00,1970-01-01 07:32:14,-00:00:14,ontime
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,Suitland Metro - Arrival,2021-02-15 00:00:00,1970-01-01 07:42:00,1970-01-01 07:41:03,1970-01-01 00:00:56,early
+Vehicle: 63027,3402,Route 34,to Capital Crossing Apartments,Suitland Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 07:45:00,1970-01-01 07:47:08,-00:02:08,ontime
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,3930 Capitol Crossing Apts,2021-02-15 00:00:00,1970-01-01 07:56:00,1970-01-01 07:56:07,-00:00:07,ontime
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,4258 Whitehall Square Apts,2021-02-15 00:00:00,1970-01-01 08:02:00,1970-01-01 08:02:24,-00:00:24,ontime
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,Suitland Metro - Arrival,2021-02-15 00:00:00,1970-01-01 08:12:00,1970-01-01 08:11:30,1970-01-01 00:00:29,early
+Vehicle: 63027,3402,Route 34,to Capital Crossing Apartments,Suitland Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 08:15:00,1970-01-01 08:19:01,-00:04:01,ontime
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,3930 Capitol Crossing Apts,2021-02-15 00:00:00,1970-01-01 08:26:00,1970-01-01 08:29:00,-00:03:00,ontime
+Vehicle: 63027,3402,Route 34,To Suitland Metrorail Station,4258 Whitehall Square Apts,2021-02-15 00:00:00,1970-01-01 08:32:00,1970-01-01 08:34:23,-00:02:23,ontime
+Vehicle: 63027,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63027,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63029,Vehicle: 63029,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Northbound,Rhode Island (US RTE 1) at Mount Rainer Terminal,2021-02-15 00:00:00,1970-01-01 06:30:00,1970-01-01 06:33:30,-00:03:30,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Northbound,Rhode Island Ave at County Service Building - NB,2021-02-15 00:00:00,1970-01-01 06:37:00,1970-01-01 06:38:53,-00:01:53,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 06:40:00,1970-01-01 06:42:03,-00:02:03,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Northbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 06:48:00,1970-01-01 06:49:31,-00:01:31,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 06:52:00,1970-01-01 06:56:20,-00:04:20,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Southbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 07:30:00,1970-01-01 07:33:18,-00:03:18,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 07:45:00,1970-01-01 07:43:58,1970-01-01 00:01:02,early
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Southbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 07:49:00,1970-01-01 07:50:20,-00:01:20,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Southbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 07:56:00,1970-01-01 07:56:35,-00:00:35,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Southbound,Rhode Island Ave at County Service Building - SB,2021-02-15 00:00:00,1970-01-01 08:00:00,1970-01-01 08:01:05,-00:01:05,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Southbound,Mt Rainier Terminal - Arrival,2021-02-15 00:00:00,1970-01-01 08:06:00,1970-01-01 08:31:55,-00:25:55,late
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Northbound,Rhode Island (US RTE 1) at Mount Rainer Terminal,2021-02-15 00:00:00,1970-01-01 08:30:00,1970-01-01 08:31:59,-00:01:59,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Northbound,Rhode Island Ave at County Service Building - NB,2021-02-15 00:00:00,1970-01-01 08:37:00,1970-01-01 08:36:36,1970-01-01 00:00:23,early
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at East-West Hwy,2021-02-15 00:00:00,1970-01-01 08:40:00,1970-01-01 08:41:51,-00:01:51,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Northbound,College Park Metro Station - Bus Bay T8,2021-02-15 00:00:00,1970-01-01 08:48:00,1970-01-01 08:50:02,-00:02:02,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Northbound,Baltimore Ave at Lakeland Rd,2021-02-15 00:00:00,1970-01-01 08:52:00,1970-01-01 08:58:53,-00:06:53,ontime
+Vehicle: 63029,1702,Route 17 (Route 1 Ride),Northbound,Ikea at Bus Bay 3,2021-02-15 00:00:00,1970-01-01 09:06:00,1970-01-01 09:14:39,-00:08:39,late
+Vehicle: 63029,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63029,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63030n,Vehicle: 63030n,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63030n,1604,Route 16,Southbound,Greenbelt Metro Station Bus Bay A,2021-02-15 00:00:00,1970-01-01 06:30:00,1970-01-01 06:31:48,-00:01:48,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Cherrywood Ln at Greenbelt Rd (MD. RTE. 193),2021-02-15 00:00:00,1970-01-01 06:39:00,1970-01-01 06:41:35,-00:02:35,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 06:42:00,1970-01-01 06:45:32,-00:03:32,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Hanover Pkwy at Greenway Center Dr,2021-02-15 00:00:00,1970-01-01 06:55:00,1970-01-01 06:54:34,1970-01-01 00:00:25,early
+Vehicle: 63030n,1604,Route 16,Southbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 07:01:00,1970-01-01 07:01:28,-00:00:28,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Lamont Dr at Lamont Pl,2021-02-15 00:00:00,1970-01-01 07:06:00,1970-01-01 07:06:26,-00:00:26,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 07:13:00,1970-01-01 07:11:47,1970-01-01 00:01:13,early
+Vehicle: 63030n,1604,Route 16,Southbound,New Carrollton Station - Arrival,2021-02-15 00:00:00,1970-01-01 07:18:00,1970-01-01 07:18:18,-00:00:18,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,New Carrollton Station,2021-02-15 00:00:00,1970-01-01 07:30:00,1970-01-01 07:31:11,-00:01:11,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 07:35:00,1970-01-01 07:35:13,-00:00:13,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Lamont Dr at Donoghue Dr,2021-02-15 00:00:00,1970-01-01 07:41:00,1970-01-01 07:40:38,1970-01-01 00:00:21,early
+Vehicle: 63030n,1604,Route 16,Northbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 07:46:00,1970-01-01 07:45:54,1970-01-01 00:00:06,early
+Vehicle: 63030n,1604,Route 16,Northbound,Hanover Pkwy at Ora Glen Dr,2021-02-15 00:00:00,1970-01-01 07:52:00,1970-01-01 07:51:18,1970-01-01 00:00:41,early
+Vehicle: 63030n,1604,Route 16,Northbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 08:06:00,1970-01-01 08:00:58,1970-01-01 00:05:01,early
+Vehicle: 63030n,1604,Route 16,Northbound,Beltway Plaza Shopping Center,2021-02-15 00:00:00,1970-01-01 08:09:00,1970-01-01 08:09:11,-00:00:11,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Greenbelt Metro Station (Arrival),2021-02-15 00:00:00,1970-01-01 08:17:00,1970-01-01 08:15:57,1970-01-01 00:01:03,early
+Vehicle: 63030n,1604,Route 16,Southbound,Greenbelt Metro Station Bus Bay A,2021-02-15 00:00:00,1970-01-01 08:30:00,1970-01-01 08:32:16,-00:02:16,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Cherrywood Ln at Greenbelt Rd (MD. RTE. 193),2021-02-15 00:00:00,1970-01-01 08:39:00,1970-01-01 08:41:48,-00:02:48,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 08:42:00,1970-01-01 08:45:20,-00:03:20,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Hanover Pkwy at Greenway Center Dr,2021-02-15 00:00:00,1970-01-01 08:55:00,1970-01-01 08:54:06,1970-01-01 00:00:54,early
+Vehicle: 63030n,1604,Route 16,Southbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 09:01:00,1970-01-01 09:00:34,1970-01-01 00:00:26,early
+Vehicle: 63030n,1604,Route 16,Southbound,Lamont Dr at Lamont Pl,2021-02-15 00:00:00,1970-01-01 09:06:00,1970-01-01 09:05:03,1970-01-01 00:00:56,early
+Vehicle: 63030n,1604,Route 16,Southbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 09:13:00,1970-01-01 09:11:52,1970-01-01 00:01:08,early
+Vehicle: 63030n,1604,Route 16,Southbound,New Carrollton Station - Arrival,2021-02-15 00:00:00,1970-01-01 09:18:00,1970-01-01 09:34:42,-00:16:42,late
+Vehicle: 63030n,1604,Route 16,Northbound,New Carrollton Station,2021-02-15 00:00:00,1970-01-01 09:30:00,1970-01-01 09:35:15,-00:05:15,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 09:35:00,1970-01-01 09:40:44,-00:05:44,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Lamont Dr at Donoghue Dr,2021-02-15 00:00:00,1970-01-01 09:41:00,1970-01-01 09:46:43,-00:05:43,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 09:46:00,1970-01-01 09:49:37,-00:03:37,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Hanover Pkwy at Ora Glen Dr,2021-02-15 00:00:00,1970-01-01 09:52:00,1970-01-01 09:54:59,-00:02:59,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 10:06:00,1970-01-01 10:06:38,-00:00:38,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Beltway Plaza Shopping Center,2021-02-15 00:00:00,1970-01-01 10:09:00,1970-01-01 10:11:09,-00:02:09,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Greenbelt Metro Station (Arrival),2021-02-15 00:00:00,1970-01-01 10:17:00,1970-01-01 10:17:53,-00:00:53,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Greenbelt Metro Station Bus Bay A,2021-02-15 00:00:00,1970-01-01 10:30:00,1970-01-01 10:32:17,-00:02:17,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Cherrywood Ln at Greenbelt Rd (MD. RTE. 193),2021-02-15 00:00:00,1970-01-01 10:39:00,1970-01-01 10:39:39,-00:00:39,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 10:42:00,1970-01-01 10:43:36,-00:01:36,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Hanover Pkwy at Greenway Center Dr,2021-02-15 00:00:00,1970-01-01 10:55:00,1970-01-01 10:54:45,1970-01-01 00:00:14,early
+Vehicle: 63030n,1604,Route 16,Southbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 11:01:00,1970-01-01 11:00:50,1970-01-01 00:00:10,early
+Vehicle: 63030n,1604,Route 16,Southbound,Lamont Dr at Lamont Pl,2021-02-15 00:00:00,1970-01-01 11:06:00,1970-01-01 11:05:42,1970-01-01 00:00:18,early
+Vehicle: 63030n,1604,Route 16,Southbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 11:13:00,1970-01-01 11:11:23,1970-01-01 00:01:37,early
+Vehicle: 63030n,1604,Route 16,Southbound,New Carrollton Station - Arrival,2021-02-15 00:00:00,1970-01-01 11:18:00,1970-01-01 11:31:03,-00:13:03,late
+Vehicle: 63030n,1604,Route 16,Northbound,New Carrollton Station,2021-02-15 00:00:00,1970-01-01 11:30:00,1970-01-01 11:33:05,-00:03:05,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 11:35:00,1970-01-01 11:39:04,-00:04:04,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Lamont Dr at Donoghue Dr,2021-02-15 00:00:00,1970-01-01 11:41:00,1970-01-01 11:43:47,-00:02:47,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 11:46:00,1970-01-01 11:47:07,-00:01:07,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Hanover Pkwy at Ora Glen Dr,2021-02-15 00:00:00,1970-01-01 11:52:00,1970-01-01 11:52:19,-00:00:19,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 12:06:00,1970-01-01 12:05:57,1970-01-01 00:00:02,early
+Vehicle: 63030n,1604,Route 16,Northbound,Beltway Plaza Shopping Center,2021-02-15 00:00:00,1970-01-01 12:09:00,1970-01-01 12:10:33,-00:01:33,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Greenbelt Metro Station (Arrival),2021-02-15 00:00:00,1970-01-01 12:17:00,1970-01-01 12:17:17,-00:00:17,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Greenbelt Metro Station Bus Bay A,2021-02-15 00:00:00,1970-01-01 12:30:00,1970-01-01 12:32:44,-00:02:44,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Cherrywood Ln at Greenbelt Rd (MD. RTE. 193),2021-02-15 00:00:00,1970-01-01 12:39:00,1970-01-01 12:41:04,-00:02:04,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 12:42:00,1970-01-01 12:44:59,-00:02:59,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Hanover Pkwy at Greenway Center Dr,2021-02-15 00:00:00,1970-01-01 12:55:00,1970-01-01 12:56:12,-00:01:12,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 13:01:00,1970-01-01 13:00:23,1970-01-01 00:00:37,early
+Vehicle: 63030n,1604,Route 16,Southbound,Lamont Dr at Lamont Pl,2021-02-15 00:00:00,1970-01-01 13:06:00,1970-01-01 13:06:00,1970-01-01 00:00:00,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 13:13:00,1970-01-01 13:11:32,1970-01-01 00:01:28,early
+Vehicle: 63030n,1604,Route 16,Southbound,New Carrollton Station - Arrival,2021-02-15 00:00:00,1970-01-01 13:18:00,1970-01-01 13:16:52,1970-01-01 00:01:07,early
+Vehicle: 63030n,1604,Route 16,Northbound,New Carrollton Station,2021-02-15 00:00:00,1970-01-01 13:30:00,1970-01-01 13:33:58,-00:03:58,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 13:35:00,1970-01-01 13:39:41,-00:04:41,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Lamont Dr at Donoghue Dr,2021-02-15 00:00:00,1970-01-01 13:41:00,1970-01-01 13:44:05,-00:03:05,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 13:46:00,1970-01-01 13:47:25,-00:01:25,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Hanover Pkwy at Ora Glen Dr,2021-02-15 00:00:00,1970-01-01 13:52:00,1970-01-01 13:51:55,1970-01-01 00:00:04,early
+Vehicle: 63030n,1604,Route 16,Northbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 14:06:00,1970-01-01 14:05:55,1970-01-01 00:00:04,early
+Vehicle: 63030n,1604,Route 16,Northbound,Beltway Plaza Shopping Center,2021-02-15 00:00:00,1970-01-01 14:09:00,1970-01-01 14:09:42,-00:00:42,ontime
+Vehicle: 63030n,1604,Route 16,Northbound,Greenbelt Metro Station (Arrival),2021-02-15 00:00:00,1970-01-01 14:17:00,1970-01-01 14:16:43,1970-01-01 00:00:17,early
+Vehicle: 63030n,1604,Route 16,Southbound,Greenbelt Metro Station Bus Bay A,2021-02-15 00:00:00,1970-01-01 14:30:00,1970-01-01 14:31:47,-00:01:47,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Cherrywood Ln at Greenbelt Rd (MD. RTE. 193),2021-02-15 00:00:00,1970-01-01 14:39:00,1970-01-01 14:39:50,-00:00:50,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,57th Ave at Berwyn Rd,2021-02-15 00:00:00,1970-01-01 14:42:00,1970-01-01 14:44:24,-00:02:24,ontime
+Vehicle: 63030n,1604,Route 16,Southbound,Hanover Pkwy at Greenway Center Dr,2021-02-15 00:00:00,1970-01-01 14:55:00,1970-01-01 14:54:56,1970-01-01 00:00:03,early
+Vehicle: 63030n,1604,Route 16,Southbound,Doctors Community Hospital,2021-02-15 00:00:00,1970-01-01 15:01:00,1970-01-01 14:59:46,1970-01-01 00:01:13,early
+Vehicle: 63030n,1604,Route 16,Southbound,Lamont Dr at Lamont Pl,2021-02-15 00:00:00,1970-01-01 15:06:00,1970-01-01 15:05:16,1970-01-01 00:00:44,early
+Vehicle: 63030n,1604,Route 16,Southbound,Riverdale Rd at Carrollton Mall,2021-02-15 00:00:00,1970-01-01 15:13:00,1970-01-01 15:11:06,1970-01-01 00:01:54,early
+Vehicle: 63030n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63030n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63031,Vehicle: 63031,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63031,3003,Route 30,Southern Maryland Hospital,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 06:10:00,1970-01-01 06:16:18,-00:06:18,ontime
+Vehicle: 63031,3003,Route 30,Southern Maryland Hospital,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 06:15:00,1970-01-01 06:21:02,-00:06:02,ontime
+Vehicle: 63031,3003,Route 30,Southern Maryland Hospital,Southern Maryland Hospital (Hidden Arrival),2021-02-15 00:00:00,1970-01-01 06:41:00,1970-01-01 06:49:00,-00:08:00,late
+Vehicle: 63031,3003,Route 30,To Branch Ave Station,Southern Maryland Hospital,2021-02-15 00:00:00,1970-01-01 07:00:00,1970-01-01 07:07:00,-00:07:00,ontime
+Vehicle: 63031,3003,Route 30,To Branch Ave Station,Clinton Fringe Lot,2021-02-15 00:00:00,1970-01-01 07:06:00,1970-01-01 07:14:35,-00:08:35,late
+Vehicle: 63031,3003,Route 30,To Branch Ave Station,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 07:24:00,1970-01-01 07:35:58,-00:11:58,late
+Vehicle: 63031,3003,Route 30,To Branch Ave Station,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 07:30:00,1970-01-01 07:40:03,-00:10:03,late
+Vehicle: 63031,3003,Route 30,To Branch Ave Station,Maxwell Dr at Morris Ave,2021-02-15 00:00:00,1970-01-01 07:34:00,1970-01-01 07:43:10,-00:09:10,late
+Vehicle: 63031,3003,Route 30,To Branch Ave Station,Branch Ave Station - Arrival,2021-02-15 00:00:00,1970-01-01 07:40:00,1970-01-01 07:46:57,-00:06:57,ontime
+Vehicle: 63031,3003,Route 30,Southern Maryland Hospital,Branch Ave Station Bus Bay J,2021-02-15 00:00:00,1970-01-01 08:00:00,1970-01-01 08:06:01,-00:06:01,ontime
+Vehicle: 63031,3003,Route 30,Southern Maryland Hospital,Morris Ave at Maxwell Dr,2021-02-15 00:00:00,1970-01-01 08:05:00,1970-01-01 08:11:48,-00:06:48,ontime
+Vehicle: 63031,3003,Route 30,Southern Maryland Hospital,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 08:10:00,1970-01-01 08:16:14,-00:06:14,ontime
+Vehicle: 63031,3003,Route 30,Southern Maryland Hospital,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 08:15:00,1970-01-01 08:19:20,-00:04:20,ontime
+Vehicle: 63031,3003,Route 30,Southern Maryland Hospital,Southern Maryland Hospital (Hidden Arrival),2021-02-15 00:00:00,1970-01-01 08:41:00,1970-01-01 08:49:25,-00:08:25,late
+Vehicle: 63031,3003,Route 30,To Branch Ave Station,Southern Maryland Hospital,2021-02-15 00:00:00,1970-01-01 09:00:00,1970-01-01 09:05:16,-00:05:16,ontime
+Vehicle: 63031,3003,Route 30,To Branch Ave Station,Clinton Fringe Lot,2021-02-15 00:00:00,1970-01-01 09:06:00,1970-01-01 09:13:32,-00:07:32,late
+Vehicle: 63031,3003,Route 30,To Branch Ave Station,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 09:24:00,1970-01-01 09:34:40,-00:10:40,late
+Vehicle: 63031,3003,Route 30,To Branch Ave Station,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 09:30:00,1970-01-01 09:39:32,-00:09:32,late
+Vehicle: 63031,3003,Route 30,To Branch Ave Station,Maxwell Dr at Morris Ave,2021-02-15 00:00:00,1970-01-01 09:34:00,1970-01-01 09:43:14,-00:09:14,late
+Vehicle: 63031,3003,Route 30,To Branch Ave Station,Branch Ave Station - Arrival,2021-02-15 00:00:00,1970-01-01 09:40:00,1970-01-01 09:47:49,-00:07:49,late
+Vehicle: 63031,3003,Route 30,Southern Maryland Hospital,Branch Ave Station Bus Bay J,2021-02-15 00:00:00,1970-01-01 10:00:00,1970-01-01 10:04:26,-00:04:26,ontime
+Vehicle: 63031,3003,Route 30,Southern Maryland Hospital,Morris Ave at Maxwell Dr,2021-02-15 00:00:00,1970-01-01 10:05:00,1970-01-01 10:08:54,-00:03:54,ontime
+Vehicle: 63031,3003,Route 30,Southern Maryland Hospital,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 10:10:00,1970-01-01 10:14:10,-00:04:10,ontime
+Vehicle: 63031,3003,Route 30,Southern Maryland Hospital,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 10:15:00,1970-01-01 10:18:23,-00:03:23,ontime
+Vehicle: 63031,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63031,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63034,Vehicle: 63034,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Southern Maryland Hospital,2021-02-15 00:00:00,1970-01-01 06:30:00,1970-01-01 06:30:41,-00:00:41,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Clinton Fringe Lot,2021-02-15 00:00:00,1970-01-01 06:36:00,1970-01-01 06:39:03,-00:03:03,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 06:54:00,1970-01-01 06:55:46,-00:01:46,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 07:00:00,1970-01-01 06:59:57,1970-01-01 00:00:02,early
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Maxwell Dr at Morris Ave,2021-02-15 00:00:00,1970-01-01 07:04:00,1970-01-01 07:03:14,1970-01-01 00:00:45,early
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Branch Ave Station - Arrival,2021-02-15 00:00:00,1970-01-01 07:10:00,1970-01-01 07:07:49,1970-01-01 00:02:10,early
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Branch Ave Station Bus Bay J,2021-02-15 00:00:00,1970-01-01 07:30:00,1970-01-01 07:30:21,-00:00:21,ontime
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Morris Ave at Maxwell Dr,2021-02-15 00:00:00,1970-01-01 07:35:00,1970-01-01 07:34:49,1970-01-01 00:00:11,early
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 07:40:00,1970-01-01 07:41:10,-00:01:10,ontime
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 07:45:00,1970-01-01 07:44:57,1970-01-01 00:00:03,early
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Southern Maryland Hospital (Hidden Arrival),2021-02-15 00:00:00,1970-01-01 08:11:00,1970-01-01 08:29:33,-00:18:33,late
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Southern Maryland Hospital,2021-02-15 00:00:00,1970-01-01 08:30:00,1970-01-01 08:30:01,-00:00:01,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Clinton Fringe Lot,2021-02-15 00:00:00,1970-01-01 08:36:00,1970-01-01 08:38:50,-00:02:50,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 08:54:00,1970-01-01 08:57:00,-00:03:00,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 09:00:00,1970-01-01 09:01:58,-00:01:58,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Maxwell Dr at Morris Ave,2021-02-15 00:00:00,1970-01-01 09:04:00,1970-01-01 09:06:00,-00:02:00,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Branch Ave Station - Arrival,2021-02-15 00:00:00,1970-01-01 09:10:00,1970-01-01 09:10:10,-00:00:10,ontime
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Branch Ave Station Bus Bay J,2021-02-15 00:00:00,1970-01-01 09:30:00,1970-01-01 09:30:22,-00:00:22,ontime
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Morris Ave at Maxwell Dr,2021-02-15 00:00:00,1970-01-01 09:35:00,1970-01-01 09:35:06,-00:00:06,ontime
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 09:40:00,1970-01-01 09:41:13,-00:01:13,ontime
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 09:45:00,1970-01-01 09:44:42,1970-01-01 00:00:17,early
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Southern Maryland Hospital (Hidden Arrival),2021-02-15 00:00:00,1970-01-01 10:11:00,1970-01-01 10:30:28,-00:19:28,late
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Southern Maryland Hospital,2021-02-15 00:00:00,1970-01-01 10:30:00,1970-01-01 10:30:31,-00:00:31,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Clinton Fringe Lot,2021-02-15 00:00:00,1970-01-01 10:36:00,1970-01-01 10:37:50,-00:01:50,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 10:54:00,1970-01-01 10:54:51,-00:00:51,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 11:00:00,1970-01-01 10:59:19,1970-01-01 00:00:41,early
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Maxwell Dr at Morris Ave,2021-02-15 00:00:00,1970-01-01 11:04:00,1970-01-01 11:03:43,1970-01-01 00:00:16,early
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Branch Ave Station - Arrival,2021-02-15 00:00:00,1970-01-01 11:10:00,1970-01-01 11:08:56,1970-01-01 00:01:03,early
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Branch Ave Station Bus Bay J,2021-02-15 00:00:00,1970-01-01 11:30:00,1970-01-01 11:30:27,-00:00:27,ontime
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Morris Ave at Maxwell Dr,2021-02-15 00:00:00,1970-01-01 11:35:00,1970-01-01 11:35:21,-00:00:21,ontime
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 11:40:00,1970-01-01 11:41:15,-00:01:15,ontime
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 11:45:00,1970-01-01 11:46:39,-00:01:39,ontime
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Southern Maryland Hospital (Hidden Arrival),2021-02-15 00:00:00,1970-01-01 12:11:00,1970-01-01 12:30:08,-00:19:08,late
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Southern Maryland Hospital,2021-02-15 00:00:00,1970-01-01 12:30:00,1970-01-01 12:30:14,-00:00:14,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Clinton Fringe Lot,2021-02-15 00:00:00,1970-01-01 12:36:00,1970-01-01 12:41:52,-00:05:52,ontime
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 12:54:00,1970-01-01 13:04:38,-00:10:38,late
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 13:00:00,1970-01-01 13:09:12,-00:09:12,late
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Maxwell Dr at Morris Ave,2021-02-15 00:00:00,1970-01-01 13:04:00,1970-01-01 13:13:58,-00:09:58,late
+Vehicle: 63034,3002,Route 30,To Branch Ave Station,Branch Ave Station - Arrival,2021-02-15 00:00:00,1970-01-01 13:10:00,1970-01-01 13:27:26,-00:17:26,late
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Branch Ave Station Bus Bay J,2021-02-15 00:00:00,1970-01-01 13:30:00,1970-01-01 13:30:20,-00:00:20,ontime
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Morris Ave at Maxwell Dr,2021-02-15 00:00:00,1970-01-01 13:35:00,1970-01-01 13:34:30,1970-01-01 00:00:30,early
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Old Branch Ave at Allentown Way,2021-02-15 00:00:00,1970-01-01 13:40:00,1970-01-01 13:41:34,-00:01:34,ontime
+Vehicle: 63034,3002,Route 30,Southern Maryland Hospital,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 13:45:00,1970-01-01 13:46:11,-00:01:11,ontime
+Vehicle: 63034,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63034,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63160,Vehicle: 63160,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Owens Rd at Irvington St,2021-02-15 00:00:00,1970-01-01 06:36:00,1970-01-01 06:41:11,-00:05:11,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Owens Rd at Wheeler Rd,2021-02-15 00:00:00,1970-01-01 06:41:00,1970-01-01 06:44:39,-00:03:39,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Temple Hill Rd at St Barnabas Rd,2021-02-15 00:00:00,1970-01-01 06:45:00,1970-01-01 06:47:15,-00:02:15,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Fisher Rd at Clow Ct,2021-02-15 00:00:00,1970-01-01 06:50:00,1970-01-01 06:52:20,-00:02:20,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 06:58:00,1970-01-01 07:00:18,-00:02:18,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Old Branch Ave at Allentown Way - Arrival,2021-02-15 00:00:00,1970-01-01 07:03:00,1970-01-01 07:32:27,-00:29:27,late
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Southern Ave Station Bay E,2021-02-15 00:00:00,1970-01-01 08:30:00,1970-01-01 08:32:03,-00:02:03,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Owens Rd at Irvington St,2021-02-15 00:00:00,1970-01-01 08:36:00,1970-01-01 08:41:14,-00:05:14,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Owens Rd at Wheeler Rd,2021-02-15 00:00:00,1970-01-01 08:41:00,1970-01-01 08:44:48,-00:03:48,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Temple Hill Rd at St Barnabas Rd,2021-02-15 00:00:00,1970-01-01 08:45:00,1970-01-01 08:48:11,-00:03:11,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Fisher Rd at Clow Ct,2021-02-15 00:00:00,1970-01-01 08:50:00,1970-01-01 08:53:11,-00:03:11,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 08:58:00,1970-01-01 08:59:38,-00:01:38,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Old Branch Ave at Allentown Way - Arrival,2021-02-15 00:00:00,1970-01-01 09:03:00,1970-01-01 09:32:21,-00:29:21,late
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Southern Ave Station Bay E,2021-02-15 00:00:00,1970-01-01 10:30:00,1970-01-01 10:32:47,-00:02:47,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Owens Rd at Irvington St,2021-02-15 00:00:00,1970-01-01 10:36:00,1970-01-01 10:40:53,-00:04:53,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Owens Rd at Wheeler Rd,2021-02-15 00:00:00,1970-01-01 10:41:00,1970-01-01 10:45:00,-00:04:00,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Temple Hill Rd at St Barnabas Rd,2021-02-15 00:00:00,1970-01-01 10:45:00,1970-01-01 10:48:25,-00:03:25,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Fisher Rd at Clow Ct,2021-02-15 00:00:00,1970-01-01 10:50:00,1970-01-01 10:53:15,-00:03:15,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 10:58:00,1970-01-01 11:00:13,-00:02:13,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Old Branch Ave at Allentown Way - Arrival,2021-02-15 00:00:00,1970-01-01 11:03:00,1970-01-01 11:33:05,-00:30:05,late
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Southern Ave Station Bay E,2021-02-15 00:00:00,1970-01-01 12:30:00,1970-01-01 12:35:39,-00:05:39,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Owens Rd at Irvington St,2021-02-15 00:00:00,1970-01-01 12:36:00,1970-01-01 12:43:40,-00:07:40,late
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Owens Rd at Wheeler Rd,2021-02-15 00:00:00,1970-01-01 12:41:00,1970-01-01 12:46:55,-00:05:55,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Temple Hill Rd at St Barnabas Rd,2021-02-15 00:00:00,1970-01-01 12:45:00,1970-01-01 12:49:52,-00:04:52,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Fisher Rd at Clow Ct,2021-02-15 00:00:00,1970-01-01 12:50:00,1970-01-01 12:54:21,-00:04:21,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Padgett's Corner,2021-02-15 00:00:00,1970-01-01 12:58:00,1970-01-01 13:01:14,-00:03:14,ontime
+Vehicle: 63160,3304,Route 33,To Old Branch and Allentown,Old Branch Ave at Allentown Way - Arrival,2021-02-15 00:00:00,1970-01-01 13:03:00,1970-01-01 13:08:25,-00:05:25,ontime
+Vehicle: 63160,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63160,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63208n,Vehicle: 63208n,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Old Forestville Rd at Forestville Rd,2021-02-15 00:00:00,1970-01-01 06:48:00,1970-01-01 06:45:19,1970-01-01 00:02:40,early
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,District Heights Municipal Bldg,2021-02-15 00:00:00,1970-01-01 06:56:00,1970-01-01 06:52:01,1970-01-01 00:03:58,early
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Council Dr at Kipling Pkwy,2021-02-15 00:00:00,1970-01-01 07:02:00,1970-01-01 06:57:00,1970-01-01 00:05:00,early
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Brooks Dr at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 07:06:00,1970-01-01 07:06:59,-00:00:59,ontime
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Denise Dr at Rollins Ave,2021-02-15 00:00:00,1970-01-01 07:09:00,1970-01-01 07:13:06,-00:04:06,ontime
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Capitol Heights - Arrival,2021-02-15 00:00:00,1970-01-01 07:15:00,1970-01-01 07:30:47,-00:15:47,late
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,Capitol Heights Station Bay B,2021-02-15 00:00:00,1970-01-01 07:30:00,1970-01-01 07:30:49,-00:00:49,ontime
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,Denise Dr at Rollins Ave,2021-02-15 00:00:00,1970-01-01 07:38:00,1970-01-01 07:37:16,1970-01-01 00:00:43,early
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,Brooks Drive at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 07:44:00,1970-01-01 07:45:17,-00:01:17,ontime
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,Kipling Pkwy at Council Dr,2021-02-15 00:00:00,1970-01-01 07:49:00,1970-01-01 07:55:00,-00:06:00,ontime
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,District Heights Municipal Bldg,2021-02-15 00:00:00,1970-01-01 07:52:00,1970-01-01 08:00:19,-00:08:19,late
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,Old Forestville Rd at Forestville Rd,2021-02-15 00:00:00,1970-01-01 07:57:00,1970-01-01 08:10:12,-00:13:12,late
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,Morgan Blvd Metro Station,2021-02-15 00:00:00,1970-01-01 08:06:00,1970-01-01 08:31:09,-00:25:09,late
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Morgan Blvd Metro Station,2021-02-15 00:00:00,1970-01-01 08:30:00,1970-01-01 08:31:09,-00:01:09,ontime
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Old Forestville Rd at Forestville Rd,2021-02-15 00:00:00,1970-01-01 08:48:00,1970-01-01 08:45:13,1970-01-01 00:02:46,early
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,District Heights Municipal Bldg,2021-02-15 00:00:00,1970-01-01 08:56:00,1970-01-01 08:51:30,1970-01-01 00:04:29,early
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Council Dr at Kipling Pkwy,2021-02-15 00:00:00,1970-01-01 09:02:00,1970-01-01 08:59:23,1970-01-01 00:02:37,early
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Brooks Dr at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 09:06:00,1970-01-01 09:09:43,-00:03:43,ontime
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Denise Dr at Rollins Ave,2021-02-15 00:00:00,1970-01-01 09:09:00,1970-01-01 09:16:17,-00:07:17,late
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Capitol Heights - Arrival,2021-02-15 00:00:00,1970-01-01 09:15:00,1970-01-01 09:30:52,-00:15:52,late
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,Capitol Heights Station Bay B,2021-02-15 00:00:00,1970-01-01 09:30:00,1970-01-01 09:30:55,-00:00:55,ontime
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,Denise Dr at Rollins Ave,2021-02-15 00:00:00,1970-01-01 09:38:00,1970-01-01 09:38:07,-00:00:07,ontime
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,Brooks Drive at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 09:44:00,1970-01-01 09:46:16,-00:02:16,ontime
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,Kipling Pkwy at Council Dr,2021-02-15 00:00:00,1970-01-01 09:49:00,1970-01-01 09:55:15,-00:06:15,ontime
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,District Heights Municipal Bldg,2021-02-15 00:00:00,1970-01-01 09:52:00,1970-01-01 10:00:47,-00:08:47,late
+Vehicle: 63208n,2404,Route 24,To Morgan Blvd Metro Center,Old Forestville Rd at Forestville Rd,2021-02-15 00:00:00,1970-01-01 09:57:00,1970-01-01 10:10:33,-00:13:33,late
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Old Forestville Rd at Forestville Rd,2021-02-15 00:00:00,1970-01-01 10:48:00,1970-01-01 10:45:36,1970-01-01 00:02:23,early
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,District Heights Municipal Bldg,2021-02-15 00:00:00,1970-01-01 10:56:00,1970-01-01 10:51:27,1970-01-01 00:04:32,early
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Council Dr at Kipling Pkwy,2021-02-15 00:00:00,1970-01-01 11:02:00,1970-01-01 10:59:06,1970-01-01 00:02:54,early
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Brooks Dr at Marlboro Pike,2021-02-15 00:00:00,1970-01-01 11:06:00,1970-01-01 11:09:03,-00:03:03,ontime
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Denise Dr at Rollins Ave,2021-02-15 00:00:00,1970-01-01 11:09:00,1970-01-01 11:14:31,-00:05:31,ontime
+Vehicle: 63208n,2404,Route 24,To Capitol Heights Metro,Capitol Heights - Arrival,2021-02-15 00:00:00,1970-01-01 11:15:00,1970-01-01 11:25:03,-00:10:03,late
+Vehicle: 63208n,1302,Route 13,Loop A,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 12:27:00,1970-01-01 12:45:18,-00:18:18,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 12:32:00,1970-01-01 12:51:03,-00:19:03,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 12:45:00,1970-01-01 12:53:03,-00:08:03,late
+Vehicle: 63208n,1302,Route 13,Loop A,Ager Rd at Nicholson,2021-02-15 00:00:00,1970-01-01 12:47:00,1970-01-01 12:54:21,-00:07:21,late
+Vehicle: 63208n,1302,Route 13,Loop A,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 12:54:00,1970-01-01 13:02:30,-00:08:30,late
+Vehicle: 63208n,1302,Route 13,Loop A,Belcrest Rd at 6505 Belcrest Rd,2021-02-15 00:00:00,1970-01-01 12:58:00,1970-01-01 13:05:44,-00:07:44,late
+Vehicle: 63208n,1302,Route 13,Loop A,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 13:03:00,1970-01-01 13:18:30,-00:15:30,late
+Vehicle: 63208n,1302,Route 13,Loop A,County Service Building,2021-02-15 00:00:00,1970-01-01 13:07:00,1970-01-01 13:22:19,-00:15:19,late
+Vehicle: 63208n,1302,Route 13,Loop A,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 13:12:00,1970-01-01 13:26:53,-00:14:53,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 13:17:00,1970-01-01 13:30:43,-00:13:43,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 13:30:00,1970-01-01 13:33:58,-00:03:58,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Ager Rd at Nicholson,2021-02-15 00:00:00,1970-01-01 13:32:00,1970-01-01 13:35:58,-00:03:58,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 13:39:00,1970-01-01 13:42:45,-00:03:45,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Belcrest Rd at 6505 Belcrest Rd,2021-02-15 00:00:00,1970-01-01 13:43:00,1970-01-01 13:48:08,-00:05:08,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 13:48:00,1970-01-01 13:55:57,-00:07:57,late
+Vehicle: 63208n,1302,Route 13,Loop A,County Service Building,2021-02-15 00:00:00,1970-01-01 13:52:00,1970-01-01 13:59:43,-00:07:43,late
+Vehicle: 63208n,1302,Route 13,Loop A,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 13:57:00,1970-01-01 14:04:29,-00:07:29,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 14:02:00,1970-01-01 14:07:26,-00:05:26,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 14:15:00,1970-01-01 14:19:11,-00:04:11,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Ager Rd at Nicholson,2021-02-15 00:00:00,1970-01-01 14:17:00,1970-01-01 14:21:27,-00:04:27,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 14:24:00,1970-01-01 14:30:37,-00:06:37,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Belcrest Rd at 6505 Belcrest Rd,2021-02-15 00:00:00,1970-01-01 14:28:00,1970-01-01 14:32:48,-00:04:48,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 14:33:00,1970-01-01 14:42:14,-00:09:14,late
+Vehicle: 63208n,1302,Route 13,Loop A,County Service Building,2021-02-15 00:00:00,1970-01-01 14:37:00,1970-01-01 14:46:03,-00:09:03,late
+Vehicle: 63208n,1302,Route 13,Loop A,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 14:42:00,1970-01-01 14:50:22,-00:08:22,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 14:47:00,1970-01-01 14:53:13,-00:06:13,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 15:00:00,1970-01-01 15:04:22,-00:04:22,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Ager Rd at Nicholson,2021-02-15 00:00:00,1970-01-01 15:02:00,1970-01-01 15:06:34,-00:04:34,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 15:09:00,1970-01-01 15:14:47,-00:05:47,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Belcrest Rd at 6505 Belcrest Rd,2021-02-15 00:00:00,1970-01-01 15:13:00,1970-01-01 15:18:04,-00:05:04,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 15:18:00,1970-01-01 15:27:48,-00:09:48,late
+Vehicle: 63208n,1302,Route 13,Loop A,County Service Building,2021-02-15 00:00:00,1970-01-01 15:22:00,1970-01-01 15:31:31,-00:09:31,late
+Vehicle: 63208n,1302,Route 13,Loop A,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 15:27:00,1970-01-01 15:35:43,-00:08:43,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 15:32:00,1970-01-01 15:39:42,-00:07:42,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 15:45:00,1970-01-01 15:47:53,-00:02:53,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Ager Rd at Nicholson,2021-02-15 00:00:00,1970-01-01 15:47:00,1970-01-01 15:49:44,-00:02:44,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 15:54:00,1970-01-01 15:57:34,-00:03:34,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Belcrest Rd at 6505 Belcrest Rd,2021-02-15 00:00:00,1970-01-01 15:58:00,1970-01-01 16:00:01,-00:02:01,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 16:03:00,1970-01-01 16:08:50,-00:05:50,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,County Service Building,2021-02-15 00:00:00,1970-01-01 16:07:00,1970-01-01 16:12:43,-00:05:43,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 16:12:00,1970-01-01 16:17:06,-00:05:06,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 16:17:00,1970-01-01 16:21:21,-00:04:21,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 16:30:00,1970-01-01 16:30:10,-00:00:10,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Ager Rd at Nicholson,2021-02-15 00:00:00,1970-01-01 16:32:00,1970-01-01 16:32:02,-00:00:02,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 16:39:00,1970-01-01 16:42:59,-00:03:59,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Belcrest Rd at 6505 Belcrest Rd,2021-02-15 00:00:00,1970-01-01 16:43:00,1970-01-01 16:45:35,-00:02:35,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 16:48:00,1970-01-01 16:58:17,-00:10:17,late
+Vehicle: 63208n,1302,Route 13,Loop A,County Service Building,2021-02-15 00:00:00,1970-01-01 16:52:00,1970-01-01 17:02:17,-00:10:17,late
+Vehicle: 63208n,1302,Route 13,Loop A,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 16:57:00,1970-01-01 17:06:54,-00:09:54,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 17:02:00,1970-01-01 17:09:23,-00:07:23,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 17:15:00,1970-01-01 17:18:03,-00:03:03,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Ager Rd at Nicholson,2021-02-15 00:00:00,1970-01-01 17:17:00,1970-01-01 17:19:51,-00:02:51,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 17:24:00,1970-01-01 17:30:53,-00:06:53,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Belcrest Rd at 6505 Belcrest Rd,2021-02-15 00:00:00,1970-01-01 17:28:00,1970-01-01 17:32:49,-00:04:49,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 17:33:00,1970-01-01 17:43:30,-00:10:30,late
+Vehicle: 63208n,1302,Route 13,Loop A,County Service Building,2021-02-15 00:00:00,1970-01-01 17:37:00,1970-01-01 17:47:10,-00:10:10,late
+Vehicle: 63208n,1302,Route 13,Loop A,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 17:42:00,1970-01-01 17:53:42,-00:11:42,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 17:47:00,1970-01-01 17:57:24,-00:10:24,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station,2021-02-15 00:00:00,1970-01-01 18:00:00,1970-01-01 18:01:46,-00:01:46,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Ager Rd at Nicholson,2021-02-15 00:00:00,1970-01-01 18:02:00,1970-01-01 18:03:13,-00:01:13,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,PG Plaza Station,2021-02-15 00:00:00,1970-01-01 18:09:00,1970-01-01 18:12:46,-00:03:46,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,Belcrest Rd at 6505 Belcrest Rd,2021-02-15 00:00:00,1970-01-01 18:13:00,1970-01-01 18:14:53,-00:01:53,ontime
+Vehicle: 63208n,1302,Route 13,Loop A,42nd Ave at Oglethorpe St,2021-02-15 00:00:00,1970-01-01 18:18:00,1970-01-01 18:26:48,-00:08:48,late
+Vehicle: 63208n,1302,Route 13,Loop A,County Service Building,2021-02-15 00:00:00,1970-01-01 18:22:00,1970-01-01 18:30:36,-00:08:36,late
+Vehicle: 63208n,1302,Route 13,Loop A,Hamilton St at 38th Ave,2021-02-15 00:00:00,1970-01-01 18:27:00,1970-01-01 18:35:17,-00:08:17,late
+Vehicle: 63208n,1302,Route 13,Loop A,West Hyattsville Station - Arrival,2021-02-15 00:00:00,1970-01-01 18:32:00,1970-01-01 18:39:20,-00:07:20,late
+Vehicle: 63208n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63208n,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63210,Vehicle: 63210,,,,2021-02-15 00:00:00,,,,
+,,,,,2021-02-15 00:00:00,,,,
+Vehicle: 63210,1804,Route 18,Southbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 06:07:00,1970-01-01 06:15:56,-00:08:56,late
+Vehicle: 63210,1804,Route 18,Southbound,PG Plaza,2021-02-15 00:00:00,1970-01-01 06:15:00,1970-01-01 06:23:46,-00:08:46,late
+Vehicle: 63210,1804,Route 18,Southbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 06:22:00,1970-01-01 06:28:19,-00:06:19,ontime
+Vehicle: 63210,1804,Route 18,Southbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 06:29:00,1970-01-01 06:35:07,-00:06:07,ontime
+Vehicle: 63210,1804,Route 18,Southbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 06:44:00,1970-01-01 06:47:17,-00:03:17,ontime
+Vehicle: 63210,1804,Route 18,Southbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 06:51:00,1970-01-01 06:51:26,-00:00:26,ontime
+Vehicle: 63210,1804,Route 18,Southbound,Addison Rd Metrorail - Arrival,2021-02-15 00:00:00,1970-01-01 07:04:00,1970-01-01 07:01:31,1970-01-01 00:02:28,early
+Vehicle: 63210,1804,Route 18,Southbound,Addison Rd Metrorail - Arrival,2021-02-15 00:00:00,1970-01-01 07:04:00,1970-01-01 07:32:26,-00:28:26,late
+Vehicle: 63210,1804,Route 18,Northbound,Addison Rd Metrorail Station,2021-02-15 00:00:00,1970-01-01 07:30:00,1970-01-01 07:32:48,-00:02:48,ontime
+Vehicle: 63210,1804,Route 18,Northbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 07:44:00,1970-01-01 07:44:03,-00:00:03,ontime
+Vehicle: 63210,1804,Route 18,Northbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 07:51:00,1970-01-01 07:51:08,-00:00:08,ontime
+Vehicle: 63210,1804,Route 18,Northbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 08:07:00,1970-01-01 08:05:24,1970-01-01 00:01:35,early
+Vehicle: 63210,1804,Route 18,Northbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 08:13:00,1970-01-01 08:10:27,1970-01-01 00:02:32,early
+Vehicle: 63210,1804,Route 18,Northbound,East-West Hwy at Prince George's Mall Ent.,2021-02-15 00:00:00,1970-01-01 08:19:00,1970-01-01 08:17:47,1970-01-01 00:01:13,early
+Vehicle: 63210,1804,Route 18,Northbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 08:27:00,1970-01-01 08:26:59,1970-01-01 00:00:00,early
+Vehicle: 63210,1804,Route 18,Southbound,Takoma Langley Park Transit Center Bus Bay B,2021-02-15 00:00:00,1970-01-01 09:00:00,1970-01-01 09:03:27,-00:03:27,ontime
+Vehicle: 63210,1804,Route 18,Northbound,Takoma Langley Park Transit Center Bus Bay B (hidden arrival),2021-02-15 00:00:00,1970-01-01 08:35:00,1970-01-01 09:03:27,-00:28:27,late
+Vehicle: 63210,1804,Route 18,Southbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 09:07:00,1970-01-01 09:12:04,-00:05:04,ontime
+Vehicle: 63210,1804,Route 18,Southbound,PG Plaza,2021-02-15 00:00:00,1970-01-01 09:15:00,1970-01-01 09:20:53,-00:05:53,ontime
+Vehicle: 63210,1804,Route 18,Southbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 09:22:00,1970-01-01 09:25:04,-00:03:04,ontime
+Vehicle: 63210,1804,Route 18,Southbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 09:29:00,1970-01-01 09:30:27,-00:01:27,ontime
+Vehicle: 63210,1804,Route 18,Southbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 09:44:00,1970-01-01 09:45:05,-00:01:05,ontime
+Vehicle: 63210,1804,Route 18,Southbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 09:51:00,1970-01-01 09:49:23,1970-01-01 00:01:37,early
+Vehicle: 63210,1804,Route 18,Southbound,Addison Rd Metrorail - Arrival,2021-02-15 00:00:00,1970-01-01 10:04:00,1970-01-01 10:03:37,1970-01-01 00:00:22,early
+Vehicle: 63210,1804,Route 18,Southbound,Addison Rd Metrorail - Arrival,2021-02-15 00:00:00,1970-01-01 10:04:00,1970-01-01 10:06:34,-00:02:34,ontime
+Vehicle: 63210,1804,Route 18,Northbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 10:44:00,1970-01-01 10:46:07,-00:02:07,ontime
+Vehicle: 63210,1804,Route 18,Northbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 10:51:00,1970-01-01 10:51:57,-00:00:57,ontime
+Vehicle: 63210,1804,Route 18,Northbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 11:07:00,1970-01-01 11:05:18,1970-01-01 00:01:42,early
+Vehicle: 63210,1804,Route 18,Northbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 11:13:00,1970-01-01 11:10:01,1970-01-01 00:02:58,early
+Vehicle: 63210,1804,Route 18,Northbound,East-West Hwy at Prince George's Mall Ent.,2021-02-15 00:00:00,1970-01-01 11:19:00,1970-01-01 11:17:36,1970-01-01 00:01:24,early
+Vehicle: 63210,1804,Route 18,Northbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 11:27:00,1970-01-01 11:26:16,1970-01-01 00:00:43,early
+Vehicle: 63210,1804,Route 18,Northbound,Takoma Langley Park Transit Center Bus Bay B (hidden arrival),2021-02-15 00:00:00,1970-01-01 11:35:00,1970-01-01 11:35:23,-00:00:23,ontime
+Vehicle: 63210,1804,Route 18,Southbound,Takoma Langley Park Transit Center Bus Bay B,2021-02-15 00:00:00,1970-01-01 12:00:00,1970-01-01 12:02:20,-00:02:20,ontime
+Vehicle: 63210,1804,Route 18,Southbound,23rd Ave at Lewisdale Dr,2021-02-15 00:00:00,1970-01-01 12:07:00,1970-01-01 12:13:08,-00:06:08,ontime
+Vehicle: 63210,1804,Route 18,Southbound,PG Plaza,2021-02-15 00:00:00,1970-01-01 12:15:00,1970-01-01 12:22:54,-00:07:54,late
+Vehicle: 63210,1804,Route 18,Southbound,Hamilton St at 38th St,2021-02-15 00:00:00,1970-01-01 12:22:00,1970-01-01 12:27:47,-00:05:47,ontime
+Vehicle: 63210,1804,Route 18,Southbound,Bladensburg Rd at 38th St,2021-02-15 00:00:00,1970-01-01 12:29:00,1970-01-01 12:33:52,-00:04:52,ontime
+Vehicle: 63210,1804,Route 18,Southbound,Cheverly Metrorail Station Bay D,2021-02-15 00:00:00,1970-01-01 12:44:00,1970-01-01 12:48:53,-00:04:53,ontime
+Vehicle: 63210,1804,Route 18,Southbound,Columbia Park Rd at Marshall Pl,2021-02-15 00:00:00,1970-01-01 12:51:00,1970-01-01 12:53:30,-00:02:30,ontime
